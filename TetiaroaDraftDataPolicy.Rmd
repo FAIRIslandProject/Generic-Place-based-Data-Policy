@@ -1,7 +1,7 @@
 ---
 title: "Tetiaroa Draft Data Policy"
 author: "Tetiaroa Society"
-date: "4/12/2022"
+date: "11/19/2019"
 output: html_document
 ---
 
@@ -14,12 +14,12 @@ knitr::opts_chunk$set(echo = TRUE)
 Tetiaroa Society, French Polynesia
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|------------------------------------------------------------------------|
 | **Tl;dr** In return for the support and access to Tetiaroa (the physical island and data derived from it) provided by Tetiaroa Society, participants in research projects agree to make their metadata and prepublication data available to each other through a "Tetiaroa Data Trust" that facilitates data re-use according to mutually agreed terms and a code of conduct. The Trust is maintained by the Tetiaroa Society to support decision-making for wise and equitable stewardship of the atoll. It follows best-practice in research data stewardship. This policy does not impose legally-binding conditions nor replace or impinge on legal obligations that might apply elsewhere. |
 
 Feedback form: <https://forms.gle/7aGfkZndD5bmkGrw7>
 
-##  Preamble
+## Preamble
 
 The owners of Tetiaroa have entrusted **Tetiaroa Society** (hereinafter "TS")as the private atoll's environmental steward with authority to develop and implement the **Tetiaroa Conservation & Sustainable Use Plan** (hereinafter the "CASUP"[^1]), and to manage access to the atoll for research, education, or conservation purposes. All projects must be authorized by Tetiaroa Society, which may seek advice from its Scientific Advisory Board (SAB), Cultural Advisory Board (CAB), and/or CASUP Committee, as appropriate. \
 
@@ -27,7 +27,7 @@ The owners of Tetiaroa have entrusted **Tetiaroa Society** (hereinafter "TS")as 
 
 The handling of research data and other research outputs derived from Tetiaroa, including material samples and intellectual property, is a key consideration for Tetiaroa Society. The current document sets out its policy in this regard. As the environmental steward of Tetiaroa, TS has an interest in the stewardship of data and material samples derived from the atoll under its auspices. In addition to its role as environmental steward of 'physical' Tetiaroa, TS also serves as the steward of the atoll's digital representation ("digital twin" or "digital avatar") and to that end has established the **Tetiaroa Data Trust** in the context of two collaborative programs:
 
-###  Tetiaroa IDEA
+### Tetiaroa IDEA
 
 Tetiaroa Society is a collaborating node of the **Island Digital Ecosystem Avatars (IDEA) Consortium** that aims to build use-oriented 4-D simulations of entire social-ecological systems[^2]. Island avatars leverage "digital twin" technology, and draw on all the data and knowledge about a place, to simulate future states of the social-ecological system under alternative scenarios of human activity and/or environmental change. **Tetiaroa IDEA** enables potential actions (e.g., conservation management) to be assessed in silico prior to deploying them. It serves as a decision-support tool for the Tetiaroa CASUP, facilitating scenario-based planning.
 
@@ -143,7 +143,7 @@ The Tetiaroa Data Trust consists of transaction records and other metadata, data
 
 The following is adapted from the Toronto Statement on Prepublication International Data Sharing.[^14] 
 
-[^14]: [**Prepublication data sharing**](https://www.nature.com/nature/journal/v461/n7261/full/461168a.html) Toronto International Data Release Workshop Authors Nature **461**, 168-170 (10 September 2009) doi:10.1038/461168a
+[^14]: [**Prepublication data sharing**](https://www.nature.com/nature/journal/v461/n7261/full/461168a.html) Toronto International Data Release Workshop Authors Nature **461**, 168-170 (10 September 2009) <doi:10.1038/461168a>
 
 Participants in the IDEA Consortium agree to abide by the following principles:
 
