@@ -35,7 +35,13 @@ Tetiaroa Society is a collaborating node of the **Island Digital Ecosystem Avata
 
 ### FAIR Island Project 
 
-The stewardship of research data, material samples, and software underpins scientific reproducibility, synthesis, and reuse. Embedded in a multidisciplinary international research network, Tetiaroa is the key use case for the **FAIR Island Project** ([www.fairisland.org](http://www.fairisland.org)), which aims to demonstrate the benefits of global best-practice drawing on the FAIR data principles and the CARE principles for Indigenous data governance, as well as guidance towards FAIR principles for research software. The FAIR Island Project and Tetiaroa Society are developing the Tetiaroa Data Trust as a core component of the Tetiaroa IDEA. 
+The stewardship of research data, material samples, and software underpins scientific reproducibility, synthesis, and reuse. Embedded in a multidisciplinary international research network, Tetiaroa is the key use case for the **FAIR Island Project** ([www.fairisland.org](http://www.fairisland.org)), which aims to demonstrate the benefits of global best-practice drawing on the FAIR data principles[^3] and the CARE principles for Indigenous data governance[^4], as well as guidance towards FAIR principles for research software[^5]. The FAIR Island Project and Tetiaroa Society are developing the Tetiaroa Data Trust as a core component of the Tetiaroa IDEA. 
+
+[^3]: Making data Findable, Accessible, Interoperable, and Reusable, particularly for machines <https://doi.org/10.1038/sdata.2016.18> 
+
+[^4]:  Collective benefit, Authority to control, Responsibility, and Ethics - CARE principles for Indigenous data governance. GIDA h[ttps://www.Gida-Global.Org/care](https://www.gida-global.org/care)
+
+[^5]: Lamprecht, Anna-Lena et al. (2020) 'Towards FAIR Principles for Research Software'. DOI: 10.3233/DS-190026
 
 ## Purpose of this Document
 
@@ -43,31 +49,41 @@ The current document (hereinafter "the Policy") represents guidelines that defin
 
 ## Article 1 -- Convention
 
-1.  In return for the permission and support provided by **Tetiaroa Society** to access Tetiaroa for research purposes, Participants in scientific Projects (hereinafter "Projects") agree to contribute to the conservation and sustainable use of the atoll by participating in the **Tetiaroa IDEA** (see Preamble), contributing to the **Tetiaroa Data Trust** (see Article 2), and abiding by the **IDEA Consortium Code of Conduct** (see [Exhibit 1](https://docs.google.com/document/d/1_KCW4U-idpzKaT60OAD77BXjRNNp7b5F/edit#heading=h.rgpvrwgfnkbg)).
+1.  In return for the permission and support provided by **Tetiaroa Society** to access Tetiaroa for research purposes, Participants in scientific Projects (hereinafter "Projects") agree to contribute to the conservation and sustainable use of the atoll by participating in the **Tetiaroa IDEA** (see Preamble), contributing to the **Tetiaroa Data Trust** (see Article 2), and abiding by the **IDEA Consortium Code of Conduct** (see [Exhibit 1 -- IDEA Code of Conduct]).
 
-2.  Participants who lead Projects (hereinafter "Principal Investigators" or "PIs") related to Tetiaroa agree to submit a Project application to TS. A key component of this Application is a **Data Management Plan** (hereinafter the "DMP"), that may be developed. Modifications of the DMP might be required prior to TS granting approval to access the atoll. TS will provide a DMP template, using the DMP Tool or equivalent, that will require:
+2.  Participants who lead Projects (hereinafter "Principal Investigators" or "PIs") related to Tetiaroa agree to submit a Project application to TS. A key component of this Application is a **Data Management Plan** (hereinafter the "DMP"), that may be developed. Modifications of the DMP might be required prior to TS granting approval to access the atoll. TS will provide a DMP template, using the DMP Tool[^6] or equivalent, that will require:
 
-    a.  ORCID IDs for all Participants in the Project
+    a.  ORCID IDs[^7] for all Participants in the Project
 
-    b.  Description of intended outputs (which might include datasets; original software; material samples) 
+    b.  Description of intended outputs[^8] (which might include datasets; original software; material samples) 
 
     c.  List of any intended intellectual property (e.g., patents, copyright, design rights and confidential know-how)
 
     d.  Description of potential ethical, legal, or social consequences (including potential commercial uses) arising from the collection, distribution, use or reuse of material samples or data; how these issues will be addressed and by whom.
 
-    e.  Commitment to using the Traditional Knowledge/Biocultural Notices where appropriate.
+    e.  Commitment to using the Traditional Knowledge/Biocultural Notices[^9] where appropriate.
 
-3.  Participants agree that TS may publish a **Marker Paper** as an Open Access document (e.g., in Zenodo) authored by the Principal Investigators and drawing on their Project Application including its DMP. TS may also make available a **Data Dashboard** as a public portal to the Project's metadata.
+3.  Participants agree that TS may publish a **Marker Paper** as an Open Access document (e.g., in Zenodo[^10]) authored by the Principal Investigators and drawing on their Project Application including its DMP. TS may also make available a **Data Dashboard** as a public portal to the Project's metadata.
 
 4.  Participants agree to make all reasonable efforts to utilize and maintain persistent identifiers and linkages generated during the Project and to connect them to future derived outputs, enabling dynamic updates to the Tetiaroa Data Trust.
 
 5.  If at some point during a Project, circumstances change and Participants can no longer contribute data under the terms described in its DMP and compliant with the terms described in this Policy (e.g., if commercial opportunities arise) the Principal Investigator shall request to make an agreement with TS, and any other relevant parties, to cover the Project going forward from that point.
 
+[^6]: <https://dmptool.org/>
+
+[^7]: <https://orcid.org/>
+
+[^8]: <https://wellcome.ac.uk/funding/managing-CASUP/developing-outputs-management-plan>
+
+[^9]: <https://www.enrich-hub.org/>
+
+[^10]: <https://zenodo.org/>
+
 ## Article 2 -- Tetiaroa Data Trust 
 
 The Tetiaroa Data Trust consists of transaction records and other metadata, data, and other research products from Projects carried out on Tetiaroa under the terms of this Policy. These digital objects ("Project Data") may be stored in multiple repositories as stated in the Project's Data Management Plan. 
 
-1.  [Definition]{.underline}: "A Data Trust can be defined as: "a legal structure that provides independent stewardship of data." While not necessarily a legal structure, the Tetiaroa Data Trust is a set of mutually agreed terms that should be considered socially-binding, and may in some cases be legally-binding. In the Tetiaroa Data Trust, Principal Investigators (Trustors) assign a stewardship role to Tetiaroa Society (Trustee) under the terms described in their Project's Data Management Plan (DMP) to share with  Tetiaroa and its stakeholders (Beneficiaries) fair and equitable benefits arising from the Project's data. 
+1.  [Definition]{.underline}: "A Data Trust can be defined as: "a legal structure that provides independent stewardship of data."[^11] While not necessarily a legal structure, the Tetiaroa Data Trust is a set of mutually agreed terms that should be considered socially-binding, and may in some cases be legally-binding. In the Tetiaroa Data Trust, Principal Investigators (Trustors) assign a stewardship role to Tetiaroa Society (Trustee) under the terms described in their Project's Data Management Plan (DMP) to share with  Tetiaroa and its stakeholders (Beneficiaries) fair and equitable benefits arising from the Project's data. 
 
 2.  [Purpose]{.underline}: The Tetiaroa Data Trust is maintained by TS to help ensure that research data, material samples, and software relevant to Tetiaroa are as Findable, Accessible, Interoperable, and Reusable (FAIR) as possible, in accordance with global best practice with respect to ethical, legal, social, and scientific considerations. 
 
@@ -85,15 +101,21 @@ The Tetiaroa Data Trust consists of transaction records and other metadata, data
 
 9.  [Beneficiaries]{.underline} of the Tetiaroa Data Trust include all stakeholders in Tetiaroa including those who provide data, those who are provided with prepublication access to the data (such as the IDEA Consortium), and those who benefit from what is created from the data (most importantly the atoll of Tetiaroa and its stewardship through the CASUP).  \
 
+[^11]:  <https://theodi.org/article/defining-a-data-trust/>
+
 ## Article 3 -- Ethical, Legal, and Social Aspects 
 
 1.  Certain data types or samples require special consideration for ethical, legal, social (including privacy, commercial confidentiality) and scientific reasons, such as, inter alia, data or samples associated with traditional knowledge, archeological artifacts, endangered species, medical data, and human subject research. In some cases, government permits might be required. In other cases, there might be commercial considerations. These aspects should be considered and addressed in Project DMPs.
 
 2.  Requests to deviate from the default terms described in this document should be submitted to TS with justification in the Project application and DMP, or subsequently if new issues arise. In addition to potential review by TS Advisory Boards, other Institutional Review Boards or government agencies might also be involved as appropriate. 
 
-3.  Projects are encouraged to consider the use of Traditional Knowledge (TK) and Biocultural  (BC) Labels, developed to: "support Native, First Nations, Aboriginal, and Indigenous communities in the management of their intellectual property and cultural heritage specifically within the digital environment", and Biocultural (BC) Labels, which extends the TK Label initiative to genetic resources. 
+3.  Projects are encouraged to consider the use of Traditional Knowledge (TK) and Biocultural  (BC) Labels, developed to: "support Native, First Nations, Aboriginal, and Indigenous communities in the management of their intellectual property and cultural heritage specifically within the digital environment"[^12], and Biocultural (BC) Labels, which extends the TK Label initiative to genetic resources[^13]. 
 
-4.  Tetiaroa Society has developed approaches for certain data types and products and these will be amended to this Policy as Exhibits. For example biological samples subject to Nagoya Protocol), (see Exhibit 2).
+4.  Tetiaroa Society has developed approaches for certain data types and products and these will be amended to this Policy as Exhibits. For example biological samples subject to Nagoya Protocol), (see [Exhibit 2 -- Material Samples]).
+
+[^12]: <https://localcontexts.org/>
+
+[^13]: <https://www.enrich-hub.org/>
 
 ## Article 4 -- Commercial Projects
 
@@ -119,11 +141,15 @@ The Tetiaroa Data Trust consists of transaction records and other metadata, data
 
 ------------------------------------------------------------------------
 
-The following is adapted from the Toronto Statement on Prepublication International Data Sharing. 
+The following is adapted from the Toronto Statement on Prepublication International Data Sharing.[^14] 
+
+[^14]: [**Prepublication data sharing**](https://www.nature.com/nature/journal/v461/n7261/full/461168a.html) Toronto International Data Release Workshop Authors Nature **461**, 168-170 (10 September 2009) doi:10.1038/461168a
 
 Participants in the IDEA Consortium agree to abide by the following principles:
 
-**Respect the Privacy, Ethical, and Legal rights** of anyone, including Indigenous peoples, who might be adversely affected by the collection, distribution, use or reuse of data, samples or derived information and knowledge. Apply consent, confidentiality, anonymization and other ethical considerations, where appropriate.
+**Respect the Privacy, Ethical, and Legal rights** of anyone, including Indigenous peoples[^15], who might be adversely affected by the collection, distribution, use or reuse of data, samples or derived information and knowledge. Apply consent, confidentiality, anonymization and other ethical considerations, where appropriate.
+
+[^15]: Collective benefit, Authority to control, Responsibility, and Ethics - CARE principles for Indigenous data governance. GIDA h[ttps://www.Gida-Global.Org/care](https://www.gida-global.org/care)
 
 **Rapid prepublication data release to** the IDEA Consortium (e.g., through one of its regional chapters such as the Tetiaroa IDEA), which is a program with the following characteristics:
 
@@ -191,10 +217,12 @@ Participants in the IDEA Consortium agree to abide by the following principles:
 
     a.  to comprehensively inventory the biodiversity of Tetiaroa, including all species of fauna and flora -- plants, animals, algae, fungi, and microbial groups;
 
-    b.  to generate time-series biodiversity observations at the bio-molecular level, including nucleotide sequencing and other "multi-omic" approaches. 
+    b.  to generate time-series biodiversity observations at the bio-molecular level, including nucleotide sequencing and other "multi-omic" approaches[^16]. 
 
     c.  to test new technological and scientific approaches for the analysis of biodiversity patterns and ecological processes in general; and to make material samples and information available to the research community. 
 
     d.  In accordance with the Convention on Biological Diversity (Nagoya Protocol) and associated regulations of the French Polynesian government, all biosamples collected on Tetiaroa contribute to the Tetiaroa Biocode & Genomic Observatory and shall comply with the "[Tetiaroa Access & Benefit Sharing (ABS) Agreement](https://drive.google.com/open?id=1W0SK1YihP2eHkt7WhOwJBp5mhy7o1HBx)" 
+
+[^16]: Davies et al. Founding Charter of the Genomic Observatories Network. GigaScience 2014, <http://www.gigasciencejournal.com/content/3/1/2>
 
 \
