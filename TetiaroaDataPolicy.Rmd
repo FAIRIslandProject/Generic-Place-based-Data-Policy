@@ -1,7 +1,7 @@
 ---
 title: "Tetiaroa IDEA Data Policy"
 author: "Tetiaroa Society"
-date: '2020-12-9'
+date: '2020-12-15'
 output: html_document
 ---
 
@@ -105,7 +105,7 @@ The current document defines the terms under which Tetiaroa Society grants parti
 
 \
 
-6.  If an embargo period is granted, pre-publication access and use of the embargoed data is still permitted for TS personnel and other IDEA Consortium collaborators who have agreed to abide by the IDEA Code of Conduct (see Exhibit 1).\
+6.  TS personnel and other IDEA Consortium collaborators who have agreed to abide by the IDEA Code of Conduct are ~~If an embargo period is granted,~~ allowed pre-publication access and use of ~~the embargoed~~ data ~~is still permitted for~~during any embargo period  ~~TS personnel and other IDEA Consortium collaborators who have agreed to abide by the IDEA Code of Conduct~~ (see Exhibit 1).\
     \
 
 7.  Legal Structure: The Tetiaroa Data Trust is a voluntary non-legally binding relationship between the Project and selected repositories, as the trustors and TS as the trustee, whose duty is to make stewardship decisions about the data in the best interests of the beneficiaries. 
@@ -144,7 +144,7 @@ The current document defines the terms under which Tetiaroa Society grants parti
 
 \
 
-3.  Projects are encouraged to consider the use of Traditional Knowledge (TK) and Biocultural  (BC) Labels, developed to: "support Native, First Nations, Aboriginal, and Indigenous communities in the management of their intellectual property and cultural heritage specifically within the digital environment", and Bio~~C~~cultural (BC) Labels, which extends the TK Label initiative to genetic resources. 
+3.  Projects are encouraged to consider the use of Traditional Knowledge (TK) and Biocultural  (BC) Labels, developed to: "support Native, First Nations, Aboriginal, and Indigenous communities in the management of their intellectual property and cultural heritage specifically within the digital environment", and Biocultural (BC) Labels, which extends the TK Label initiative to genetic resources. 
 
 # Article 5 -- Commercial Projects
 
@@ -243,3 +243,5 @@ Participants in the IDEA Consortium agree to abide by the following principles:
 -   Contacting the data producers to discuss publication plans in the case of overlap between planned analyses
 
 -   Ensuring that use of data does not harm participants and is in conformity with ethical, legal, and social aspects and approvals
+
+\
