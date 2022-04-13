@@ -1,7 +1,7 @@
 ---
 title: "Tetiaroa IDEA Data Policy"
 author: "Tetiaroa Society"
-date: '2020-08-26'
+date: '2020-11-11'
 output: html_document
 ---
 
@@ -19,7 +19,7 @@ The owners of Tetiaroa have entrusted **Tetiaroa Society (TS)** as the private a
 
 ### Tetiaroa IDEA
 
-Tetiaroa Society is a collaborating node of the **Island Digital Ecosystem Avatars (IDEA) Consortium** that aims to build use-oriented 4-D simulations (avatars) of entire social-ecological systems. An avatar is the digital representation of the data and knowledge about a place, enabling actions (e.g., conservation management) to be assessed in silico prior to deploying them in the real world. **Tetiaroa IDEA** is coordinated by Tetiaroa Society to facilitate scenario-based planning and to serve as a decision-support tool for the Tetiaroa CASUP. 
+Tetiaroa Society is a collaborating node of the **Island Digital Ecosystem Avatars (IDEA) Consortium** that aims to build use-oriented 4-D simulations (digital avatars or twins) of entire social-ecological systems. A~~n~~  social-ecological avatar is the digital representation of the data and knowledge about a place, enabling actions (e.g., conservation management) to be assessed in silico prior to deploying them in the real world. **Tetiaroa IDEA** is coordinated by Tetiaroa Society to facilitate scenario-based planning and to serve as a decision-support tool for the Tetiaroa CASUP. 
 
 \
 
@@ -65,7 +65,7 @@ In return for the permission and support provided by Tetiaroa Society to access 
 
 \
 
-Review process: All scientific research projects are reviewed by Tetiaroa Society's (TS) Scientific Advisory Board (SAB) prior to TS approval to access the atoll. Review by other entities (e.g., government agencies) might also be required depending on the nature of the research. Each project's Data Management Plan (DMP) is reviewed by the TS Science Director and a Research Data Management advisor (with support of the FAIR Island Project). Modifications of the DMP might be required.
+Review process: All scientific research projects are reviewed by Tetiaroa Society's (TS) Scientific Advisory Board (SAB) prior to TS approval to access the atoll. Review by other entities (e.g., government agencies) might also be required depending on the nature of the research. Each project's Data Management Plan (DMP) is reviewed by the TS Science Director and ~~a~~ Research Data Management advisors (with support of the FAIR Island Project). Modifications of the DMP might be required.
 
 \
 
