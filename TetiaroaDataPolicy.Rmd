@@ -1,7 +1,7 @@
 ---
 title: "Tetiaroa IDEA Data Policy"
 author: "Tetiaroa Society"
-date: '2020-12-21'
+date: '2021-01-08'
 output: html_document
 ---
 
@@ -116,7 +116,7 @@ The current document defines the terms under which Tetiaroa Society grants parti
 
 # Article 3 -- Material Samples 
 
-1.  Each project's DMP shall include a description of the physical collection and removal (extraction) of material samples from Tetiaroa - whether archeological, geological/chemical, biological, or social (built environment). Projects shall describe in their DMP how they plan to register these sampling events, apply unique identifiers, implement relevant metadata standards, and track derived material (sub)samples, (meta)data, and other derived outputs. 
+1.  Each project's DMP shall include a description of the physical collection and removal (extyouraction) of material samples from Tetiaroa - whether archeological, geological/chemical, biological, or social (built environment). Projects shall describe in their DMP how they plan to register these sampling events, apply unique identifiers, implement relevant metadata standards, and track derived material (sub)samples, (meta)data, and other derived outputs. 
 
 \
 
