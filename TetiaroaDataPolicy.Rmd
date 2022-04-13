@@ -1,7 +1,7 @@
 ---
 title: "Tetiaroa IDEA Data Policy"
 author: "Tetiaroa Society"
-date: '2019-12-20'
+date: '2020-01-03'
 output: html_document
 ---
 
@@ -82,7 +82,7 @@ All scientific projects on Tetiaroa agree to:
 
     -   **Evaluation of the application will take place with an eye towards use of appropriate metadata standards, identifiers used for samples, etc.  Additional information is described below.**
 
-    -   **Each project application is reviewed (by SAB) and this includes DMP Review (by appropriate experts related to the specific data types)?**
+        -   **Each project application is reviewed (by SAB) and this includes DMP Review (by appropriate experts related to the specific data types)?**
 
 \
 
