@@ -5,6 +5,12 @@ date: '2019-12-20'
 output: html_document
 ---
 
+# Tetiaroa IDEA Data Policy
+
+Tetiaroa Society, French Polynesia
+
+\
+
 # Preamble
 
 Frangipani Unlimited SA, the owner of Tetiaroa, a private island in French Polynesia, has formally entrusted **Tetiaroa Society (TS)** as the atoll's environmental steward with authority to develop and implement the **Tetiaroa Conservation & Sustainable Use Plan (CASUP)**. Tetiaroa Society manages access to the atoll for research, education, and conservation, or any other purposes not directly linked to The Brando Resort (which is owned and operated by leaseholders, Tahiti Beachcomber SA, on two of the atoll's 12 islets). All projects are authorized by Tetiaroa Society after review of its Scientific Advisory Board (SAB), Cultural Advisory Board (CAB), and/or CASUP Committee, as appropriate. The handling of data and other outputs, including material samples and intellectual property, is a key consideration, and the current document sets out TS policy in this regard.
@@ -24,6 +30,8 @@ Data and sample curation underpin scientific reproducibility, synthesis, and reu
 \
 
 In recognition of this opportunity, all participants in scientific projects on Tetiaroa agree to:
+
+\
 
 -   participate in the Tetiaroa IDEA and join the IDEA Consortium
 
@@ -51,7 +59,7 @@ All scientific projects on Tetiaroa agree to:
 
         -   **Those likely to be co-authors on publications or other products.**
 
-    -   **Include a data management plan (DMP)**
+    -   **Include a data management plan (DMP) generally described in the marker paper and then subsequently detail/updates and published (DOI) also**
 
         -   Using the Data Management Plan Tool or equivalent to describe the following:
 
@@ -61,13 +69,22 @@ All scientific projects on Tetiaroa agree to:
 
         -   physical / material samples collected or created on Tetiaroa
 
+```{=html}
 <!-- -->
-
+```
 -   IP such as patents, copyright, design rights and confidential know-how
 
 -   Identify any potential privacy, ethical, or legal consequences arising from the collection, distribution, use or reuse of samples and data
 
-<!-- -->
+\
+
+-   **Review process**
+
+    -   **Evaluation of the application will take place with an eye towards use of appropriate metadata standards, identifiers used for samples, etc.  Additional information is described below.**
+
+    -   **Each project application is reviewed (by SAB) and this includes DMP Review (by appropriate experts related to the specific data types)?**
+
+\
 
 -   **During the project**
 
@@ -77,7 +94,7 @@ All scientific projects on Tetiaroa agree to:
 
 -   **After the project**
 
-    -   **Provide copies of all data underpinning scientific papers as well as updates, corrections and modifications to project data**
+    -   **Provide copies of all data (including protocols and software) underpinning scientific papers as well as updates, corrections and modifications to project data**
 
         -   **Copies of data are provided where permissible under applicable government regulations**
 
@@ -321,8 +338,9 @@ An agreement signed on 30 August 2016 in which Frangipani Unlimited SA (owner of
 
 3.  WHEREAS the Tetiaroa Society has established the **Tetiaroa IDEA Biocode Observatory** (hereinafter the "Observatory"), a scientific research program in collaboration with the **Research, Higher Education and Innovation Consortium of French Polynesia ("RESIPOL")** with the following objectives: 
 
+```{=html}
 <!-- -->
-
+```
 1.  to comprehensively inventory the biodiversity of Tetiaroa (French Polynesia), including all species of fauna and flora -- plants, animals, algae, fungi, and microbial groups;
 
 2.  to generate time-series biodiversity observations at the molecular level, including DNA sequencing and other "multi-omic" approaches. 
@@ -331,8 +349,9 @@ An agreement signed on 30 August 2016 in which Frangipani Unlimited SA (owner of
 
 4.   to make Materials and information available to the research community. 
 
+```{=html}
 <!-- -->
-
+```
 4.  WHEREAS the Observatory presents a unique opportunity to improve global scientific knowledge and to provide local benefits for French Polynesia by further understanding the biodiversity and ecological processes of Tetiaroa, and by supporting local management and development initiatives (notably the Tetiaroa CASUP), including training and public outreach activities in French Polynesia;
 
 5.  WHEREAS French Polynesia and TS are committed to implementing the letter and spirit of the CBD in carrying out the Observatory;
@@ -542,9 +561,8 @@ Done in 4 (four) original copies, two in English and two in French, both linguis
 | Date                                                           | Date                                                           |
 |                                                                |                                                                |
 |                                                                | \                                                              |
++================================================================+================================================================+
 +----------------------------------------------------------------+----------------------------------------------------------------+
-
-+================================================================+================================================================+ +----------------------------------------------------------------+----------------------------------------------------------------+
 
 \
 \
@@ -714,13 +732,13 @@ Technical Notices
 
 Notice to [Partner Institution Name] shall go to:
 
-    Legal Notices
+  Legal Notices
 
  [Partner Institution to supply]
 
 \
 
-    Technical Notices
+  Technical Notices
 
  [Partner Institution to supply]
 
@@ -742,17 +760,17 @@ Done in 4 (four) original copies, two in English and two in French, both linguis
 
 Accepted and agreed
 
-Partner Institution Name TS
+Partner Institution Name  TS
 
 \
 
-By: By:
+By: 		By: 	
 
-Name:   Name:
+Name:   		Name:  
 
-Title:   Title:
+Title:   		Title: 	
 
-Date: Date:
+Date: 		Date: 	
 
 \
 
@@ -914,5 +932,4 @@ Focal Point for French Polynesia 
 
 This Agreement will terminate on the earliest of the following dates: (l) on completion of Recipient's current research with the Materials, or (2) on thirty (30) days written notice by either party to the other. Paragraphs 2, 5 and 6 shall survive termination.
 
-\
 \
