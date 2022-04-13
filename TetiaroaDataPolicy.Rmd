@@ -1,7 +1,7 @@
 ---
 title: "Tetiaroa IDEA Data Policy"
 author: "Tetiaroa Society"
-date: '2020-06-24'
+date: '2020-08-04'
 output: html_document
 ---
 
@@ -13,7 +13,7 @@ Tetiaroa Society, French Polynesia
 
 # Preamble
 
-The owner of Tetiaroa private island, Frangipani Unlimited SA, has entrusted **Tetiaroa Society (TS)** as the atoll's environmental steward with authority to develop and implement the **Tetiaroa Conservation & Sustainable Use Plan (CASUP)**. Tetiaroa Society manages access to the atoll for research, education, and conservation, or any other purposes not directly linked to The Brando Resort, which is located on one of the atoll's 12 islets (motus). All projects are authorized by Tetiaroa Society after review of its Scientific Advisory Board (SAB), Cultural Advisory Board (CAB), and/or CASUP Committee, as appropriate. The handling of data and other outputs, including material samples and intellectual property, is a key consideration for Tetiaroa Society and the current document sets out its policy in this regard. Tetiaroa Society delegates responsibility for governance of the **Tetiaroa Data Trust** (defined herein) to a joint committee of its Scientific and Cultural Advisory Boards, to be established by the the SAB and CAB chairs. Tetiaroa Society participates in two programs that provide a framework for its data policy and the Tetiaroa Data Trust:
+The owner of Tetiaroa private island, Frangipani Unlimited SA, has entrusted **Tetiaroa Society (TS)** as the atoll's environmental steward with authority to develop and implement the **Tetiaroa Conservation & Sustainable Use Plan (CASUP)**. Tetiaroa Society manages access to the atoll for research, education, and conservation, or any other purposes not directly linked to The Brando Resort, which is located on one of the atoll's 12 islets (motus). All projects are authorized by Tetiaroa Society after review of its Scientific Advisory Board (SAB), Cultural Advisory Board (CAB), and/or CASUP Committee, as appropriate. The handling of **research data** and other research outputs, including material samples and intellectual property, is a key consideration for Tetiaroa Society and the current document sets out its policy in this regard. Tetiaroa Society delegates responsibility for governance of the **Tetiaroa Data Trust** (defined herein) to ~~a joint committee of~~ its Scientific ~~and Cultural~~ Advisory Board~~s, to be established by the SAB and CAB chairs~~. Tetiaroa Society participates in two programs that provide a framework for its research data policy and the Tetiaroa Data Trust:
 
 \
 
@@ -25,31 +25,31 @@ Tetiaroa Society shares the goals of the **Island Digital Ecosystem Avatars (IDE
 
 ### FAIR Island Project 
 
-The stewardship of research data and samples underpins scientific reproducibility, synthesis, and reuse. Embedded in a broad international research network, Tetiaroa is the key use case for the FAIR Island Project ([www.fairisland.org](http://www.fairisland.org)), which aims to demonstrate the benefits of global best-practice in data stewardship. Drawing on the 'FAIR' data principles and the CARE principles for indigenous data governance, the FAIR Island Project and Tetiaroa Society are developing the **Tetiaroa Data Trust** as a core component of the Tetiaroa IDEA. 
+The stewardship of research data and samples underpins scientific reproducibility, synthesis, and reuse. Embedded in a broad international research network, Tetiaroa is the key use case for the FAIR Island Project ([www.fairisland.org](http://www.fairisland.org)), which aims to demonstrate the benefits of global best-practice in data stewardship. Drawing on inter alia the 'FAIR' data principles and the CARE principles for ~~i~~Indigenous data governance, the FAIR Island Project and Tetiaroa Society are developing the **Tetiaroa Data Trust** as a core component of the Tetiaroa IDEA. 
 
 # Purpose of this Agreement
 
-The current document defines the terms under which participants in scientific projects on Tetiaroa are granted access to Tetiaroa by Tetiaroa Society. All participants in said projects agree to contribute to the **Tetiaroa IDEA** by using **FAIR Island** infrastructure to submit project descriptions, data management plans, and reports, and to deposit all (meta)data and other project outputs in the **Tetiaroa** **Data Trust**. Participants contributing to and accessing the Tetiaroa Data Trust agree to abide by the code of conduct established by the **IDEA Consortium** (see Exhibit 1).
+The current document defines the terms under which participants in scientific research projects on Tetiaroa are granted access to Tetiaroa by Tetiaroa Society. All participants in said projects agree to contribute to the **Tetiaroa IDEA** ~~by using **FAIR Island** infrastructure to~~by ~~submit~~depositing project descriptions, data management plans~~, and reports, and to deposit all~~ , (meta)data and other project outputs in the **Tetiaroa** **Data Trust**, ~~. Participants contributing to and accessing the Tetiaroa Data Trust~~ and agreeing to abide by the code of conduct established by the **IDEA Consortium** (see [Exhibit 1](https://docs.google.com/document/d/1_KCW4U-idpzKaT60OAD77BXjRNNp7b5F/edit#heading=h.rgpvrwgfnkbg)).
 
 # Article 1 -- Convention
 
-In return for Tetiaroa Society (TS) permission to access Tetiaroa, leaders (principal investigators) and participants in all scientific projects on Tetiaroa agree to:
+In return for Tetiaroa Society (TS) granting permission to access Tetiaroa for research purposes, ~~leaders (~~principal investigators~~)~~ and participants in all scientific projects on Tetiaroa agree to:
 
 \
 
-**Application**
+**Applications**
 
 -   Provide ORCID IDs for all participants
 
-    -   Participants are those likely to be co-authors of publications / other products.
+    -   Participants are defined as those likely to be co-authors of publications / other products.
 
--   Submit with their application a 'marker paper' (Description with DOI) for publication by TS 
+-   ~~Submit with their~~Complete TS online application through the RAMS portal (provided by UC NRS) ~~a~~and provide a 'marker paper' ~~(~~Description with DOI~~)~~ for publication by TS 
 
-    -   A project description with unique identifier (DOI) serving as a record of the initial aims, providing an important narrative form of metadata. 
+    -   ~~A~~The marker paper is a project description ~~with unique~~with a unique identifier (DOI) ~~serves~~that serves as a record of the initial aims, providing an important narrative form of metadata. 
 
--   Include a Data Management Plan (DMP with DOI) for publication by TS
+-   Include a Data Management Plan (DMP) ~~(~~DMP with DOI~~)~~ for publication by TS
 
-    -   Use Data Management Plan Tool or equivalent to describe intended outputs:
+    -   Use Data Management Plan Tool or equivalent to describe intended outputs including:
 
         -   datasets generated by the Project
 
@@ -61,31 +61,35 @@ In return for Tetiaroa Society (TS) permission to access Tetiaroa, leaders (prin
 
     -   Describe any potential ethical, legal, or social consequences arising from the collection, distribution, use or reuse of samples or data and how these will be addressed
 
+    -   [See a draft  [Data Management Plan template](https://drive.google.com/open?id=1IzE4Nj0AMvV9yzmuUAjE0Nng0G0oFsSA) - this will be updated as architecture of the Tetiaroa Data Trust and related cyberinfrastructure is finalized through FAIR Island Project and related efforts.]
+
 \
 
-Review process: All proposed scientific research projects on Tetiaroa must be reviewed by Tetiaroa Society's (TS) Scientific Advisory Board (SAB) prior to approval of access to the atoll. Review by other entities might also be required. The SAB evaluates the marker paper and recommends whether TS should accept it for publication. Each project DMP is reviewed by TS Science Director and a Research Data Management advisor (with support of FAIR Island Project). Modifications of the DMP might be required before TS will finalize approval for the project to access the atoll.
+Review process: All ~~proposed~~ scientific research projects ~~on Tetiaroa~~ must be reviewed by Tetiaroa Society's (TS) Scientific Advisory Board (SAB) prior to approval of access to the atoll. Review by other entities (e.g., government agencies) might also be required depending on the nature of the research. ~~The SAB evaluates the marker paper and recommends whether TS should accept it for publication.~~ Each project's DMP is reviewed by the TS Science Director and a Research Data Management advisor (with support of the FAIR Island Project). Modifications of the DMP might be required before TS will finalize approval for the project to access the atoll.
 
 \
 
 **Reports**
 
--   Submit a 'data paper' (Report with DOI) annually and on completion of the project for publication by TS:
+-   Projects are required to ~~S~~submit reports (data papers) for publication by TS annually and ~~a 'data paper' (~~Report with DOI~~) annually and~~ on completion of the project ~~for publication by TS~~:
 
-    -   Data papers leverage FAIR Island infrastructure (e.g., machine-actionable DMPs). Details/copies of raw and processed (meta)data and other project outputs are deposited in the Tetiaroa Data Trust under the terms described in this Agreement.
+    -   Data papers leverage FAIR Island Project infrastructure (e.g., machine-actionable DMPs).
 
--   Submit new version of Data Management Plan, if needed, for publication by TS
+    -   Details/copies of raw and processed (meta)data and other project outputs are deposited in the Tetiaroa Data Trust under the terms described in this Agreement.
 
--   Make good-faith effort to maintain identifiers and linkages generated during the project and connect them to future derived outputs to enable  dynamic updates to the Tetiaroa Data Trust.   
+    -   ~~Submit new version of Data Management Plan, if needed, for publication by TS~~
+
+-   ~~M~~Projects agree to ~~ake a good-faith effort to~~ maintain identifiers and linkages generated during the project and to connect them to future derived outputs ~~to enable~~ , enabling dynamic updates to the Tetiaroa Data Trust.   
 
 # Article 2 -- Terms of Use
 
-Unless data or other project outputs are subject to special treatment (e.g., due to ethical, legal, social aspects - see Article 5), as agreed in the Project's approved Data Management Plan, all data are contributed to the Tetiaroa Data Trust under the following license:
+Unless data or other project outputs are subject to special treatment (e.g., due to ethical, legal, social aspects - see Article 5), as agreed in the Project's approved Data Management Plan, all metadata and data are contributed to the Tetiaroa Data Trust under the following license:
 
 -   TBD [perhaps the Creative Commons Attribution-Noncommercial license].
 
 \
 
-**Commercial use** of data, material samples, or other outputs (hereinafter the "Outputs") originating from Tetiaroa requires authorization from Tetiaroa Society under separate project-specific agreements. Commercial use is defined here as:
+**Commercial use** of data, material samples, or other outputs ~~(hereinafter the "Outputs")~~ originating from Tetiaroa requires authorization from Tetiaroa Society under separate project-specific agreements. Commercial use is defined here as:
 
 \
 
@@ -93,25 +97,39 @@ Unless data or other project outputs are subject to special treatment (e.g., due
 
 # Article 3 -- Embargo Period & Prepublication Release
 
-Projects are encouraged to waive an embargo period. If requested, an embargo period may be granted for up to [1 year] after the end date of the Project as specified in its Data Management Plan. During any embargo period, metadata is publicly available but **pre-publication access and use** of the data is permitted only for TS and any third parties who have agreed to abide by the IDEA Code of Conduct (see Exhibit 1). After any embargo period, TS may release data under the default license established for the Tetiaroa Data Trust (see Article 2).
+The default is no embargo period. ~~Projects are encouraged to waive an embargo period.~~ If requested, an embargo period may be granted for up to [1 year] after the end date of the Project as specified in its Data Management Plan. During any embargo period, metadata is publicly available but **pre-publication access and use** of the data is permitted **only for TS personnel and any third parties who have all agreed to abide by the IDEA Code of Conduct** (see Exhibit 1). After any embargo period, TS may release data under the default license established for the Tetiaroa Data Trust (see Article 2).
 
 # Article 4 -- Material Samples 
 
-Each project's Data Management Plan also considers accessing and digitizing (e.g., imaging, recording, sequencing) material samples, including archeological, geochemical (geosamples), and biological (biosamples) materials. Any collection of material samples on Tetiaroa shall use the iSAMPLES cyberinfrastructure (GEOME, IGSN/SESAR, Open Context), or equivalent, to register sampling events, apply unique identifiers, implement relevant metadata standards, and track derived material samples, data, and outputs. Furthermore, in accordance with the Convention on Biological Diversity (Nagoya Protocol) and associated regulations of the French Polynesian government, all Projects collecting biosamples on Tetiaroa must comply with the "Biocode Observatory Access & Benefit Sharing Agreement" (see Exhibit 4). Note: the Biocode Observatory ABS does not cover Traditional Ecological Knowledge, which has additional requirements (see Article 5).
-
-# Article 5 -- Ethical, Legal, and Social Aspects 
-
-In some cases ethical, legal, and social considerations, including privacy, make open data approaches inappropriate and special treatment of these data are justified or required. Such exceptions might include inter alia traditional knowledge, archeological artifacts, medical data, and human subject research. The procedures described here (including project proposals and data management plans) are intended to identify issues and enable institutional review boards (including TS Scientific and Cultural Advisory Boards) make specific recommendations (e.g., use of approaches developed by 'Local Contexts', an initiative to: "support Native, First Nations, Aboriginal, and Indigenous communities in the management of their intellectual property and cultural heritage specifically within the digital environment").
-
-# Article 6 -- Dispute Resolution
-
-Disputes concerning the use of data or samples are adjudicated by Tetiaroa Society with input from its Advisory Boards (SAB, CAB, CASUP). The Boards will hear from both sides and make recommendations to the Tetiaroa Society. Sanctions for failing to comply with the IDEA Code of Conduct or other aspects of the Tetiaroa Data Policy may include the rescinding of rights to access Tetiaroa.
-
-# Exhibits
+Each project's Data Management Plan also considers accessing and digitizing (e.g., imaging, recording, sequencing) archeological, geological/chemical, and biological material samples~~, including archeological, geochemical (geosamples), and biological (biosamples) materials~~. Any collection of material samples on Tetiaroa shall register sampling events, apply unique identifiers, implement relevant metadata standards, and track derived material samples, data, and outputs. ~~Furthermore, i~~
 
 \
 
-## Exhibit 1 -- IDEA Code of Conduct
+In the case of biological samples, the Tetiaroa Society has established the **Tetiaroa Biocode & Omic Observatory**, a scientific research program in collaboration with the Research, Higher Education and Innovation Consortium of French Polynesia ("RESIPOL") with the following objectives: 
+
+\
+
+1.  to comprehensively inventory the biodiversity of Tetiaroa, including all species of fauna and flora -- plants, animals, algae, fungi, and microbial groups;
+
+2.  to generate time-series biodiversity observations at the molecular level, including DNA sequencing and other "multi-omic" approaches. 
+
+3.   to test new technological and scientific approaches for the analysis of biodiversity patterns and ecological processes in general; and to make Materials and information available to the research community. 
+
+In accordance with the Convention on Biological Diversity (Nagoya Protocol) and associated regulations of the French Polynesian government, all ~~Projects collecting~~ biosamples collected on Tetiaroa contribute to the Tetiaroa Biocode & Omic Observatory and shall ~~must~~ comply with the "[Tetiaroa Access & Benefit Sharing (ABS) Agreement](https://drive.google.com/open?id=1W0SK1YihP2eHkt7WhOwJBp5mhy7o1HBx)"~~.~~ . 
+
+\
+
+# Article 5 -- Ethical, Legal, and Social Aspects 
+
+Some data types or samples require special consideration, and in some cases permits, such as those associated with traditional knowledge, archeological artifacts, endangered species, medical data, and human subject research. These ~~will~~ may be reviewed ~~on a case by case basis~~ by the TS Scientific and Cultural Advisory Boards. ~~Specific recommendations might include, for example,~~As appropriate, projects are encouraged to consider the use of Traditional Knowledge (TK) Labels, ~~which were~~ developed to: "support Native, First Nations, Aboriginal, and Indigenous communities in the management of their intellectual property and cultural heritage specifically within the digital environment", and BioCultural (BC) Labels, which extends the TK Label initiative to genetic resources.
+
+# Article 6 -- Dispute Resolution
+
+Disputes concerning the use of data or samples are adjudicated by Tetiaroa Society with input from its Advisory Boards, which will hear from both sides and make recommendations. Sanctions for failing to comply with the IDEA Code of Conduct or other aspects of the Tetiaroa Data Policy may include the rescinding of rights to access Tetiaroa.
+
+\
+
+# Exhibit -- IDEA Code of Conduct
 
 The following is adapted from the Toronto Statement on Prepublication International Data Sharing. 
 
@@ -121,7 +139,7 @@ Participants in the IDEA Consortium agree to abide by the following principles:
 
 \
 
-**Respect the Privacy, Ethical, and Legal rights** of anyone who might be adversely affected by the collection, distribution, use or reuse of data, samples or derived information and knowledge. Apply consent, confidentiality, anonymization and other ethical considerations, where appropriate.
+**Respect the Privacy, Ethical, and Legal rights** of anyone, including Indigenous peoples, who might be adversely affected by the collection, distribution, use or reuse of data, samples or derived information and knowledge. Apply consent, confidentiality, anonymization and other ethical considerations, where appropriate.
 
 \
 
@@ -179,741 +197,4 @@ Participants in the IDEA Consortium agree to abide by the following principles:
 
 -   Contacting the data producers to discuss publication plans in the case of overlap between planned analyses
 
--   Ensuring that use of data does not harm participants and is in conformity with ethical, legal, and social aspects and approvals
-
-## Exhibit 2 -- Data Management Plan Template 
-
-The following is an example modified from the DMP Template of DCC Digital Curation Centre. The final DMP template should be posted as an online form/s (Tetiaroa DMP) that all projects will be required to complete as part of the application process to access Tetiaroa, using the Data Management Plan Tool or equivalent.
-
-\
-
-#### 1. Data Types, Formats, Standards and Capture Methods
-
-1.  **What data outputs will your research generate?**
-
-2.  **Outline volume, type, content, quality and format of the final dataset.**
-
-3.  **Outline the metadata, documentation or other supporting material that should accompany the data for it to be interpreted correctly.**
-
-4.  **What standards and methodologies will be utilized for data collection and management?**
-
-5.  **State the relationship to other data available in public repositories (e.g. existing data sources that will be used by the research project); gaps between available data and that required for the research; the added value that new data would provide in relation to existing data.**
-
-\
-
-Notes: You should detail what data you will create and explain why you have opted for particular formats, standards and methodologies. You should capture your data in (or convert it to) community-accepted data formats where available. Using standard or widely-adopted formats will make your data interoperable. Open or non-proprietary formats are preferable, as you and others will have less trouble processing these later. Your data should be deposited into an archive, and particular formats may be necessary. Documentation and metadata allow your data to be understood and discovered by others. It is fundamental to capture contextual details about how and why the data were created. Metadata is a subset of this broad documentation, describing the data in detail. There are various metadata standards which can help you to describe your data in a consistent way. 
-
-\
-
-#### 2. Ethics and Intellectual Property
-
-1.  **Demonstrate that you have sought advice on and addressed all copyright and rights management issues that apply to the resource.**
-
-2.  **Make explicit mention of consent, confidentiality, anonymization and other ethical considerations, where appropriate.**
-
-3.  **Are any restrictions on data sharing required -- for example to safeguard research participants or to gain appropriate intellectual property protection?**
-
-\
-
-Notes: Explain any constraints, such as embargo periods or restricted access BEYOND THOSE SPECIFIED IN THE IDEA CONSORTIUM DATA POLICY, and ensure these are properly justified as research data under the auspices of TETIAROA SOCIETY (TETIAROA IDEA) should be openly available as soon as possible. These justifications may also be of use in the event of a Freedom of Information request for your research data. All research involving human data or material is subject to formal ethical review. Where appropriate, you should outline the steps you will take to protect research participants (e.g., anonymizing data). It helps to show that you've balanced concerns with the desire to share (e.g., by negotiating informed consent for data sharing). 
-
-\
-
-#### 3. Access, Data Sharing and Reuse
-
-1.  **What are the further intended and/or foreseeable research uses for the completed dataset(s)?**
-
-2.  **Apart from providing a copy of your data or other outputs (software/code) to Tetiaroa Society, how else do you intend to make the resource accessible?**
-
-3.  **State any expected difficulties in data sharing, along with causes and possible measures to overcome these difficulties.**
-
-4.  **How will data sharing provide opportunities for coordination or collaboration?**
-
-\
-
-Notes: Tetiaroa Society requires all projects meet minimum quality standards to make sure their data (including software/code) can be understood and reused by other researchers. See Tetiaroa IDEA Data Policy.
-
-\
-
-#### 4. Short-Term Storage, Security, and Data Management
-
-1.  **Describe the planned quality assurance and back-up procedures, including security/storage and any use of encryption.**
-
-2.  **Specify the responsibilities for data management and curation within research teams participating in your project at all participating institutions.**
-
-\
-
-Notes: Be clear about who will be responsible for different tasks. Are the investigators co-located, or will you need infrastructure that accommodates secure remote access? How will data quality be monitored if you are working in a distributed network across several sites? You may apply differing levels of service or adopt a combination of approaches:
-
--   Security may be more robust for any sensitive data you collect than for secondary data you hold under license. Think about how you will transfer data securely (e.g., encrypting data or using secure online storage). If using online services, you should know where your data are hosted and be certain that this is legally permissible.
-
--   Back-up of your unique data is more critical than copies of secondary data. The more important the data and the more often it is used, the more regularly it needs to be backed up. Fully managed file services with automated back-up, such as those offered by university IT services, are very robust and save you the time and effort of implementing your own system. Such services could be used in combination with portable storage or cloud computing to meet particular needs.
-
-#### Deposit and Long-Term Preservation
-
-1.  **Identify which of the data sets produced are considered to be of long-term value.**
-
-2.  **Apart from providing a copy of data to Tetiaroa Society, outline any other plans for preparing and documenting data for preservation and sharing.**
-
-3.  **Similarly, apart from providing a copy of data to Tetiaroa Society, explain any other archiving/preservation plan to ensure the long-term value of key datasets.**
-
-\
-
-Notes: Deciding what has long-term value and preparing those data to expected standards for deposit are time-consuming processes, for which you should allocate significant resources. It is a common expectation that published results will include information on how to access the supporting data. The Tetiaroa IDEA will provide one home for your data. You might have other homes for some or all of your data and these should be indicated. The data which underpin publications should be extracted, captured in machine-readable form and deposited with Tetiaroa Society (in addition to any other data centers) so they remain accessible. 
-
-\
-
-#### Resourcing
-
--   **What resources will you require to deliver your plan?**
-
--   **Outline additional hardware, software and technical expertise, support and training that is likely to be required and how it will be acquired.**
-
--   **Do you require specific help with this from Tetiaroa Society and/or the IDEA Consortium?**
-
-\
-
-Notes: Show that you have sufficient funding/resources to cover the project's data management support. Creating documentation and making your data understandable to others is very time consuming, so be realistic about how much effort is needed to prepare your data for sharing and preservation.
-
-## Exhibit 3 -- Tetiaroa Conservation and Stewardship Agreement 
-
-An agreement signed on 30 August 2016 in which Frangipani Unlimited SA (owner of Tetiaroa) and Tahiti Beachcomber SA (lease of motus Onetahi and Honuea, and owner/operator of The Brando resort) appoint Tetiaroa Society as "Environmental Steward of Tetiaroa" with authority and responsibility to manage, conserve and protect Tetiaroa as a natural reserve, including the power to authorize research programs. 
-
-\
-\
-
-## Exhibit 4 -- Tetiaroa IDEA: Biocode Observatory ABS Agreement
-
-\
-
-**BETWEEN FRENCH POLYNESIA AND THE TETIAROA SOCIETY**
-
-\
-
-**THIS AGREEMENT [insert reference identifier]** is between French Polynesia ("French Polynesia") and Tetiaroa Society ("TS") 
-
-\
-
--   In view of the organic law n°2004-192 of the 27th of February 2004, concerning the self-government status of French Polynesia and the law n°2004-193 of the 27th of February 2004 completing the self-government status of French Polynesia;
-
--   In view of the Convention on Biological Diversity (CBD) concluded at Rio de Janeiro on 5 June 1992;
-
--   Etc.
-
--   In view of the Conservation and Stewardship Agreement: Frangipani-TBSA-TS
-
--   Etc.
-
-\
-\
-
-**WITNESSETH**:
-
-\
-
-1.  WHEREAS within the context of the CBD, French Polynesia has the legal authority to prior informed consent and authorization to access and use the biodiversity of French Polynesia;
-
-\
-
-2.  WHEREAS the owners of Tetiaroa have designated Tetiaroa Society the environmental steward of Tetiaroa charged with developing and implementing the Tetiaroa Conservation and Sustainable Use Plan (hereinafter the "CASUP") including the responsibility for managing access to the genetic resources of the atoll, whether for non-commercial or commercial purposes.
-
-\
-
-3.  WHEREAS the Tetiaroa Society has established the **Tetiaroa IDEA Biocode Observatory** (hereinafter the "Observatory"), a scientific research program in collaboration with the **Research, Higher Education and Innovation Consortium of French Polynesia ("RESIPOL")** with the following objectives: 
-
-```{=html}
-<!-- -->
-```
-1.  to comprehensively inventory the biodiversity of Tetiaroa (French Polynesia), including all species of fauna and flora -- plants, animals, algae, fungi, and microbial groups;
-
-2.  to generate time-series biodiversity observations at the molecular level, including DNA sequencing and other "multi-omic" approaches. 
-
-3.   to test new technological and scientific approaches for the analysis of biodiversity patterns and ecological processes in general; and 
-
-4.   to make Materials and information available to the research community. 
-
-```{=html}
-<!-- -->
-```
-4.  WHEREAS the Observatory presents a unique opportunity to improve global scientific knowledge and to provide local benefits for French Polynesia by further understanding the biodiversity and ecological processes of Tetiaroa, and by supporting local management and development initiatives (notably the Tetiaroa CASUP), including training and public outreach activities in French Polynesia;
-
-5.  WHEREAS French Polynesia and TS are committed to implementing the letter and spirit of the CBD in carrying out the Observatory;
-
-6.  WHEREAS TS is responsible for administering the CASUP and managing the Observatory.
-
-\
-
-**IT IS AGREED AS FOLLOWS:**
-
-\
-
-**Article 1 AGREEMENT**
-
-\
-
-French Polynesia and the TS (hereinafter "the Parties") agree that this Agreement represents prior informed consent for access to and mutually agreed terms for the use of the Materials collected on Tetiaroa and its surrounding waters in French Polynesia by TS and its Partner Institutions under the Tetiaroa IDEA Biocode Observatory.
-
-\
-
-**Article 2 DEFINITIONS**
-
-The Definitions used in this Agreement are as follows:
-
-1.  **Materials** are the flora, fauna and microbial life obtained from French Polynesia under the Observatory, and any progeny, cell extract, genetic material or any other Unmodified Derivative thereof. Materials also include any Materials contained or incorporated in Modifications.
-
-2.  **Modifications** are created substances that contain/incorporate the Materials.
-
-3.  **Commercial Use** means commercial product development; the sale, lease, or license of the Materials; using the Materials to produce or manufacture products for general sale, not including publications and/or copyrightable works; transferring tangible rights by sale or license resulting in payment beyond cost; conducting market research; seeking pre-market approval.
-
-4.  **Unmodified Derivatives** are substances created by TS that constitute an unmodified functional subunit or product expressed by the original Material. Some examples include: subclones of unmodified cell lines, purified or fractionated subsets of the Material, proteins expressed by DNA/RNA contained in the Material, or monoclonal antibodies secreted by a hybridoma cell line of the Material. 
-
-5.  **Inventions** are new uses of the Materials, Unmodified Derivatives or Modifications that are potentially commercially useful
-
-6.  **Partner Institutions are the organizations that TS designates as its key collaborators in the Observatory.  Initially, they include the founding members of the RESIPOL Consortium of French Polynesia, namely the University of French Polynesia (UPF), Institut Louis Malardé (ILM), the University of California Berkeley (on behalf of the UC Gump South Pacific Research Station on Moorea), the CNRS (on behalf of the CRIOBE on Moorea), the IFREMER, and the Institut de Recherche pour le Développement (IRD). Additional partners may be designated by TS during the Observatory.**
-
-7.  **Biocode Repositories are units of TS or a Partner Institution that maintain biological collections and will act as custodians of the Materials collected by the Observatory.**
-
-8.  **Transfers are when a Biocode Repository provides Materials to another party without any obligation or expectation that the other party will return the Materials intact and entire to the Biocode Repository.**
-
-9.  **Loans are the traditional practice of natural history museums to temporarily exchange specimens for scholarly research that does not involve damaging or destroying any of the Materials.  The specimens are returned intact and entire to the loaning institution. Loans are not considered Transfers of the Materials.**
-
-\
-
-**Article 3 MANAGEMENT OF MATERIALS**
-
-TS agrees to:
-
-1.  Collect biological samples in accordance with the laws and regulations of French Polynesia;  
-
-\
-
-2.  Process and store Materials at the Tetiaroa Ecostation and transfer them to other Biocode Repositories using the Material Transfer Agreement attached as Exhibit A (hereinafter "Biocode Repository MTA");  
-
-\
-
-3.  Inform French Polynesia if it transfers materials to a Biocode Repository of a new Partner Institution;  
-
-\
-
-4.  Take all appropriate, reasonable, and necessary measures to transport (export and import) the Materials in accordance with relevant laws and regulations and to contain the Materials so as to prevent the release of invasive alien species;
-
-\
-
-5.  Only use the Materials for scientific research, education, and conservation purposes;
-
-\
-
-6.  Not distribute, transfer, or use the Materials for Commercial Use without prior approval of French Polynesia;
-
-\
-
-7.  Make information about the samples, the location of Materials, and scientific results publicly available. For example, through the iSamples infrastructure, including the Genomic Observatories Metadatabase (GEOME), and other global biodiversity informatics networks, such as the Global Biodiversity Information Facility (GBIF), the Consortium for the Barcode of Life (CBOL), and the INSDC ("Genbank"); 
-
-\
-
-8.  Transfer the Materials for non-Commercial Use to non-Biocode Repositories (e.g., third party scientific institutions, units of TS and its Partner Institutions that are not Biocode Repositories, and French Polynesia) using the terms and conditions of the Material Transfer Agreement attached as Exhibit B (hereinafter "Biocode Third Party MTA").
-
-\
-
-9.  Maintain retrievable records of all transfers of Materials, and on request, will provide French Polynesia with records of such transfers; 
-
-\
-
-10. Return the Materials to French Polynesia if TS is unable or unwilling to continue its custodial role of storing the Materials for research and educational use.  
-
-\
-
-**Article 4 PUBLICATION OF RESEARCH RESULTS**
-
-\
-
-1.  This Agreement will be published in a publicly accessible online database and given a unique digital object identifier (DOI).
-
-\
-
-2.  TS shall be free to publish the results of its research activities using the Materials in scholarly publications and agrees to acknowledge in all publications and published reports the origin of the Materials from French Polynesia and the contribution of the Observatory, by making reference to this Agreement and its DOI.
-
-\
-
-3.  TS shall endeavor to make all reports or publications resulting from research on the Materials available to French Polynesia. For example, through iSamples / GEOME, the Tetiaroa Ecostation website, and IDEA Consortium (Tetiaroa IDEA) online resources.
-
-\
-
-**Article 5 INTELLECTUAL PROPERTY MANAGEMENT**
-
-\
-
-1.  In the event that a patent application is filed for an Invention, TS shall promptly supply French Polynesia with a copy of the disclosure that French Polynesia shall hold in confidence and use only for evaluation purposes. 
-
-\
-
-2.  Prior to any Commercial Use of an Invention, TS must agree to terms for sharing any financial benefits with French Polynesia. 
-
-\
-
-3.  The provision of the Materials to TS shall not alter any pre-existing right to the Materials. 
-
-\
-\
-
-**Article 6 COMMERCIAL USE OF MATERIALS**
-
-\
-
-1.  Nothing in this Agreement grants TS any rights under patents, nor any rights to use any products or processes derived from or with Materials, for profit-making or commercial purposes.
-
-2.  Sale or licensing of copyrighted works (such as documents) related to the Materials (e.g., photos of specimens, books, and scientific articles) is not considered Commercial Use of the Materials.
-
-3.  The Materials may be used or transferred by TS for Commercial Use only after French Polynesia provides approval and terms for the use or transfer. It is understood by the Parties that such Commercial Uses may require a commercial license from French Polynesia to use the Materials or any part of the Materials that is incorporated in a Modification. It is understood by TS that French Polynesia shall have no obligation to grant such a license to TS and may grant exclusive or non-exclusive commercial licenses to others, or sell or assign all or part of the rights in the Materials to any third party(ies), subject to any pre-existing rights held by others. 
-
-\
-
-**Article 7. NOTICES**
-
-\
-
-Notices to French Polynesia shall go to:
-
-\
-
-**Legal Notices**
-
-Presidence De La Polynesie Française
-
-\
-
-Ministère de l'Education, de l'Enseignement supérieur et de la Recherche
-
-\
-
-**Technical Communications**
-
-CBD Focal Point for French Polynesia 
-
-[French Polynesia to specify]
-
-\
-
-Notices to TS shall go to:
-
-**Legal Notices**
-
-Stanley Rowland
-
-Tetiaroa Society
-
-President
-
-\
-
-**Technical Notices**
-
-Neil Davies, Ph.D.
-
-Tetiaroa Society 
-
-Science Director 
-
-[ndavies\@moorea.berkeley.edu](mailto:ndavies@moorea.berkeley.edu)
-
-\
-
-**Article 8. TERM OF AGREEMENT**
-
-This Agreement will terminate thirty (30) days after the recorded delivery of a written notice by either party to the other.  The notice shall include an explanation of the reason for termination.  The terms of use of any Materials already in TS's possession under this Agreement shall survive termination.
-
-\
-\
-
-Done in 4 (four) original copies, two in English and two in French, both linguistic versions being of equal legal value. 
-
-\
-
-+----------------------------------------------------------------+----------------------------------------------------------------+
-| French Polynesia                                               | Tetiaroa Society                                               |
-|                                                                |                                                                |
-| \                                                              | \                                                              |
-| \                                                              | \                                                              |
-|                                                                |                                                                |
-| By\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | By\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-|                                                                |                                                                |
-| Name                                                           | Name                                                           |
-|                                                                |                                                                |
-| Title                                                          | Title                                                          |
-|                                                                |                                                                |
-| Date                                                           | Date                                                           |
-|                                                                |                                                                |
-|                                                                | \                                                              |
-+================================================================+================================================================+
-+----------------------------------------------------------------+----------------------------------------------------------------+
-
-\
-\
-\
-\
-
-### Biocode MTA Between TS and Partner Institutions
-
-\
-
-This Material Transfer Agreement ("Agreement"), dated as of \_\_\_\_\_\_\_\_\_ (the "Effective Date"), is made by and between the Tetiaroa Society ("TS"), and ["Partner Institution Name"] 
-
-WHEREAS, TS desires that the Materials obtained by the Tetiaroa IDEA Biocode Observatory (the "Materials") be used in academic research and that [Partner Institution Name] will provide custodial, research and storage facilities for the Materials and will provide Materials under their control to qualified Third Party Recipients ("Third Party Recipients")
-
-WHEREAS, TS will provide the Materials to [Partner Institution Name] and [Partner Institution Name] is willing to accept such Materials and is subject to the terms contained in this Agreement.
-
-\
-
-**Article 1 AGREEMENT**
-
-\
-
-TS and ["Partner Institution Name"] (hereinafter "the Parties") agree that ["Partner Institution Name"] is a "Partner Institution" in the Tetiaroa IDEA Biocode Observatory and will maintain Materials as a "Biocode Repository" as defined in the Tetiaroa IDEA Biocode Observatory Agreement. Materials are provided by TS to [Partner Institution Name] which has custodial responsibility for those Materials.  
-
-\
-
-**Article 2 DEFINITIONS**
-
-\
-
-The Definitions used in this Agreement are as follows:
-
-1.  Materials are the flora, fauna and microbial life obtained from French Polynesia under the Tetiaroa IDEA Biocode Observatory, and any progeny, cell extract, genetic material or any other Unmodified Derivative thereof.  Materials also include any Materials contained or incorporated in Modifications.
-
-2.  Modifications are created substances that contain/incorporate the Materials.
-
-3.  Commercial Use means commercial product development; the sale, lease, or license of the Materials; using the Materials to produce or manufacture products for general sale, not including publications and/or copyrightable works; transferring tangible rights by sale or license resulting in payment beyond cost; conducting market research; seeking pre-market approval.
-
-4.  Unmodified Derivatives are substances created by TS that constitute an unmodified functional subunit or product expressed by the original Material. Some examples include: subclones of unmodified cell lines, purified or fractionated subsets of the Material, proteins expressed by DNA/RNA contained in the Material, or monoclonal antibodies secreted by a hybridoma cell line of the Material. 
-
-\
-
-5.  Inventions are new uses of the Materials, Unmodified Derivatives or Modifications that are potentially commercially useful
-
-6.  Partner Institutions are the organizations that TS designates as its key collaborators in the Tetiaroa IDEA Biocode Observatory.  Initially, they include: the Smithsonian Institution, Délégation à la Recherche de la Polynésie Française, Centre National de la Recherche Scientifique, University of Florida, Institut de Recherche pour le Développement, Muséum National d'Histoire Naturelle, Herbier de la Polynésie Française, and Ecole Pratique des Hautes Etudes.  Additional partners may be designated by TS during the Project.
-
-7.  Biocode Repositories are units of TS or a Partner Institution that maintain biological collections and will act as custodians of the Materials collected by the Tetiaroa IDEA Biocode Observatory.
-
-8.  Transfers are when a Biocode Repository provides Materials to a second party without any obligation or expectation that the second party will return the Materials intact and entire to the Biocode Repository.
-
-9.  Loans are the traditional practice of natural history museums to temporarily exchange specimens for scholarly research that does not involve damaging or destroying any of the Materials.  The specimens are returned intact and entire to the loaning institution.  Loans are not considered Transfers of the Materials. 
-
-**Article 3 MANAGEMENT OF MATERIALS**
-
-\
-
-The Materials will only be stored and used by [Partner Institution Name] for non-commercial scientific research, education, and conservation purposes. Further, [Partner Institution Name] will:
-
-\
-
-11. Take all appropriate, reasonable, and necessary measures to transport (export and import) the Materials in accordance with relevant laws and regulations and to contain the Materials so as to prevent the release of invasive alien species;
-
-\
-
-12. Only use the Materials for scientific research, education, and conservation purposes;
-
-\
-
-13. Not distribute, transfer, or use the Materials for Commercial Use without prior approval of French Polynesia;
-
-\
-
-14. Make information about the samples, the location of Materials, and scientific results publicly available.  For example, through the online "Biocode Portal" and other global biodiversity informatics networks, such as the Global Biodiversity Information Facility (GBIF), the Consortium for the Barcode of Life (CBOL) and the Genbank; 
-
-\
-
-15. Transfer the Materials for non-Commercial Use to non-Biocode Repositories (e.g., third party scientific institutions, units of TS and its Partner Institutions that are not Biocode Repositories, and French Polynesia) using the terms and conditions of the Moorea Biocode Agreement's "Third Party MTA".
-
-\
-
-16. Maintain retrievable records of all transfers of Materials, and on request, will provide French Polynesia with records of such transfers; 
-
-\
-
-17. Return the Materials to French Polynesia if [Partner Institution Name] is unable or unwilling to continue its custodial role of storing the Materials for research and educational use.  
-
-\
-\
-
-**Article 4 PUBLICATION OF RESEARCH RESULTS**
-
-\
-
-1.  This Agreement may be published in a publicly accessible online database and given a unique digital object identifier (DOI).
-
-2.  [Partner Institution Name] shall be free to publish the results of its research activities using the Materials in scholarly publications and agrees to acknowledge in all publications and published reports the origin of the Materials from French Polynesia and the contribution of the Tetiaroa IDEA Biocode Observatory, by making reference to the Tetiaroa IDEA Biocode Observatory Agreement and its digital object identifier (DOI).
-
-3.  [Partner Institution Name] shall endeavor to make all reports or publications resulting from research on the Materials available to French Polynesia.  For example, through the online Biocode Portal and the Moorea Ecostation websites.
-
-\
-
-**Article 5 INTELLECTUAL PROPERTY MANAGEMENT**
-
-\
-
-1.  In the event that a patent application is filed for an Invention, [Partner Institution Name] shall promptly supply French Polynesia with a copy of the disclosure that French Polynesia shall hold in confidence and use only for evaluation purposes. 
-
-\
-
-2.  Prior to any Commercial Use of an Invention, [Partner Institution Name] must agree to terms for sharing any financial benefits with French Polynesia. 
-
-\
-
-3.  The provision of the Materials to [Partner Institution Name] shall not alter any pre-existing right to the Materials. 
-
-\
-
-**Article 6 COMMERCIAL USE OF MATERIALS**
-
-\
-
-1.  Nothing in this Letter Agreement grants [Partner Institution Name] any rights under patents, nor any rights to use any products or processes derived from or with Materials, for profit-making or commercial purposes.
-
-2.  Sale or licensing of copyrighted works (such as documents) related to the Materials (e.g., photos of specimens, books, and scientific articles) is not considered Commercial Use of the Materials.
-
-\
-
-3.  The Materials may be used or transferred by [Partner Institution Name] for Commercial Use only after French Polynesia provides approval and terms for the use or transfer. It is understood by the Parties that such Commercial Uses may require a commercial license from French Polynesia to use the Materials or any part of the Materials that is incorporated in a Modification. It is understood by [Partner Research Institution Name] that French Polynesia shall have no obligation to grant such a license to [Partner Institution Name] and may grant exclusive or non-exclusive commercial licenses to others, or sell or assign all or part of the rights in the Materials to any third party(ies), subject to any pre-existing rights held by others. 
-
-\
-
-**Article 7. NOTICES**
-
-\
-
-Notices to French Polynesia shall go to:
-
-Legal Notices
-
-Presidence De La Polynesie Française
-
-B.P. 255 1 ,98713 Papeete - TAHITI, Polynésie française- caserne Broche, Avenue Bruat
-
-TCl. : (689) 47 20 00,
-
-\
-
-Technical Communications
-
-Focal Point for French Polynesia 
-
- [FP to supply]
-
-\
-
-Notices to TS shall go to:
-
-Legal Notices
-
-\
-\
-
-Technical Notices
-
-\
-\
-
-Notice to [Partner Institution Name] shall go to:
-
-	Legal Notices
-
- [Partner Institution to supply]
-
-\
-
-  Technical Notices
-
- [Partner Institution to supply]
-
-\
-\
-
-**Article 8. TERM OF AGREEMENT**
-
-\
-
-This Agreement will terminate thirty (30) days after the recorded delivery of a written notice by either party to the other.  The notice shall include an explanation of the reason for termination.  The terms of use of any Materials already in [Partner Institution Name]'s possession under this Agreement shall survive termination.
-
-\
-\
-
-Done in 4 (four) original copies, two in English and two in French, both linguistic versions being of equal legal value. 
-
-\
-
-Accepted and agreed
-
-Partner Institution Name	TS
-
-\
-
-By: 		By: 	
-
-Name:   		Name:	
-
-Title:   		Title: 	
-
-Date: 		Date: 	
-
-\
-
-EXHIBIT A -- Moorea Biocode MOU (French Polynesia and TS)
-
-EXHIBIT B -- Third Party MTA
-
-\
-\
-
-### Biocode MTA Between Biocode Repositories and Third Parties
-
-\
-
-The terms and conditions described in this Material Transfer Agreement (MTA) apply to Materials obtained from French Polynesia under the Tetiaroa IDEA Biocode Observatory Agreement between the Tetiaroa Society (TS) and French Polynesia.  They govern the transfer and use of those Materials from a Biocode Repository ("Provider") to a third party ["Recipient"]. 
-
-WHEREAS, Provider has custodial responsibility as a Biocode Repository for the Materials obtained from French Polynesia by the Tetiaroa IDEA Biocode Observatory; and 
-
-WHEREAS, Provider will provide Materials to the Recipient for limited non-commercial research or teaching purposes and only subject to the following terms and conditions:
-
-\
-
-**1. Definitions**
-
-Definitions used this Agreement are as follows:
-
-1.  Materials are the flora, fauna and microbial life obtained from French Polynesia under the Tetiaroa IDEA Biocode Observatory, and any progeny, cell extract, genetic material or any other Unmodified Derivative thereof.  Materials also include any Materials contained or incorporated in Modifications.
-
-2.  Modifications are created substances that contain/incorporate the Materials.
-
-3.  Commercial Use means commercial product development; the sale, lease, or license of the Materials; using the Materials to produce or manufacture products for general sale, not including publications and/or copyrightable works; transferring tangible rights by sale or license resulting in payment beyond cost; conducting market research; seeking pre-market approval.
-
-4.  Unmodified Derivatives are substances created by TS that constitute an unmodified functional subunit or product expressed by the original Material. Some examples include: subclones of unmodified cell lines, purified or fractionated subsets of the Material, proteins expressed by DNA/RNA contained in the Material, or monoclonal antibodies secreted by a hybridoma cell line of the Material. 
-
-5.  Inventions are new uses of the Materials, Unmodified Derivatives or Modifications that are potentially commercially useful
-
-6.  Partner Institutions are the organizations that TS designates as its key collaborators in the Tetiaroa IDEA Biocode Observatory.  
-
-7.  Biocode Repositories are units of TS or a Partner Institution that maintain biological collections and will act as custodians of the Materials collected by the Tetiaroa IDEA Biocode Observatory.
-
-8.  Transfers are when a Biocode Repository provides Materials to another party without any obligation or expectation that the other party will return the Materials intact and entire to the Biocode Repository.
-
-9.  Loans are the traditional practice of natural history museums to temporarily exchange specimens for scholarly research that does not involve damaging or destroying any of the Materials.  The specimens are returned intact and entire to the loaning institution.  Loans are not considered Transfers of the Materials. 
-
-**2. Use of Materials**
-
-Recipient shall use Materials for academic, non-commercial scientific research, education, or conservation purposes only.  The Recipient shall:
-
-1.  Take all appropriate, reasonable, and necessary measures to export and import the Materials in accordance with relevant laws and regulations and to contain the Materials so as to prevent the release of invasive alien species;
-
-\
-
-2.  Use the Materials only for the non-commercial research purposes (the "Research Project") described in writing to the Provider prior to transfer, and not for any other purpose without the prior written consent of the Provider
-
-3.  Shall not use Materials in research that is subject to consulting or licensing obligations to any third party without prior written approval of French Polynesia.
-
-4.  Ensure that any Research Project using the Materials will be conducted in accordance with all existing laws and regulations;
-
-5.  The Materials may not be further distributed to others without the prior written consent of the Provider.  The Recipient will refer any request to Provider;
-
-6.  Make information about the samples, the location of Materials, and scientific results publicly available.  For example, through the online "Biocode Portal" and other global biodiversity informatics networks, such as the Global Biodiversity Information Facility (GBIF), the Consortium for the Barcode of Life (CBOL) and the Genbank; 
-
-\
-
-**3. Transfer of Materials**
-
-1.  This Agreement does not restrict Provider's right to distribute the Materials and all Modifications and Unmodified Derivatives resulting thereof to other noncommercial entities.
-
-\
-
-**4. Publication of Research Results**
-
-\
-
-1.  Recipient shall be free to publish the results of its research activities using the Materials in scholarly publications and agrees to acknowledge in all publications and published reports the origin of the Materials from French Polynesia and the contribution of the Tetiaroa IDEA Biocode Observatory and the Provider, by citing the Tetiaroa IDEA Biocode Observatory Agreement including its Digital Object Identifier (DOI).  
-
-2.  Recipient shall endeavor to make all reports or publications resulting from research on the Materials available to French Polynesia.  
-
-\
-
-**5. Intellectual Property Management**
-
-\
-
-1.  In the event that a patent application is filed for an Invention, Recipient shall promptly supply French Polynesia with a copy of the disclosure that French Polynesia shall hold in confidence and use only for evaluation purposes. 
-
-\
-
-2.  Prior to any Commercial Use of the Invention, Recipient must agree to terms for sharing any financial benefits with French Polynesia. 
-
-\
-
-3.  The provision of the Materials to Recipient shall not alter any pre-existing right to the Materials. 
-
-\
-
-**6. Commercial Use of Materials**
-
-\
-
-4.  Nothing in this Letter Agreement grants Recipient any rights under patents, nor any rights to use any products or processes derived from or with Materials, for profit-making or commercial purposes.
-
-5.  Sale or licensing of copyrighted works (such as documents) related to the materials (e.g., photos of specimens, books, and scientific articles) is not considered commercial use of the Materials.
-
-\
-
-6.  The Materials may be used by Recipient for Commercial Use only after French Polynesia provides approval and terms for these transfers. It is understood by the Parties that such Commercial Uses may require a commercial license from French Polynesia to use the Materials or that part of the Materials that is incorporated in the Modifications. It is understood by the Recipient that French Polynesia shall have no obligation to grant such a license to the Recipient and may grant exclusive or non-exclusive commercial licenses to others, or sell or assign all or part of the rights in the Materials to any third party(ies), subject to any pre-existing rights held by others. 
-
-**7. Additional Terms**
-
-1.  Any Materials delivered pursuant to this Agreement is understood to be experimental in nature and may have hazardous properties. The Provider MAKES NO REPRESENTATIONS AND EXTENDS NO WARRANTIES OF ANY KIND, EITHER EXPRESSED OR IMPLIED. THERE ARE NO EXPRESS OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. 
-
-2.  Except to the extent prohibited by law, the Recipient assumes all liability for damages that may arise from its use, storage or disposal of the Materials. The Provider will not be liable to the Recipient for any loss, claim or demand made by the Recipient, or made against the Recipient by any other party, due to or arising from the use of the Materials by the Recipient, except to the extent permitted by law when caused by the gross negligence or willful misconduct of the Provider. 
-
-3.  This Agreement is not assignable.
-
-**7. NOTICES**
-
-\
-
-Notices to French Polynesia shall go to:
-
-Legal Notices
-
-Presidence De La Polynesie Française
-
-B.P. 255 1 ,98713 Papeete - TAHITI, Polynésie française- caserne Broche, Avenue Bruat
-
-TCl. : (689) 47 20 00,
-
-Fax. : (689) 43 15 62
-
-Email : [capr\@presidence.pf](mailto:capr@presidence.pf) 
-
-<http://www.presidence.pf>
-
-\
-
-Ministère de l'Education, de l'Enseignement supérieur et de la Recherche
-
-B.P. 255 1 , 9871 3 Papeete - TAHITI, Polynésie française- Bâtiment administratif, Avenue Bruat
-
-TCI. : (689) 47 24 40
-
-Fax. : (689) 85 57 77
-
-\
-
-Technical Communications
-
-Focal Point for French Polynesia 
-
- [FP to supply]
-
-\
-\
-
-**8. Term of Agreement**
-
-This Agreement will terminate on the earliest of the following dates: (l) on completion of Recipient's current research with the Materials, or (2) on thirty (30) days written notice by either party to the other. Paragraphs 2, 5 and 6 shall survive termination.
-
-\
-\
+Ensuring that use of data does not harm participants and is in conformity with ethical, legal, and social aspects and approvals
