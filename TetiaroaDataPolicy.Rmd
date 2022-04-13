@@ -1,7 +1,7 @@
 ---
 title: "Tetiaroa IDEA Data Policy"
 author: "Tetiaroa Society"
-date: '2020-11-29'
+date: '2020-12-9'
 output: html_document
 ---
 
@@ -38,8 +38,6 @@ The stewardship of research data, material samples, and software underpins scien
 # Purpose of this Agreement
 
 The current document defines the terms under which Tetiaroa Society grants participants in scientific research projects (hereinafter "Projects") access to Tetiaroa.
-
-\
 
 # Article 1 -- Convention
 
@@ -146,9 +144,7 @@ The current document defines the terms under which Tetiaroa Society grants parti
 
 \
 
-3.  Projects are encouraged to consider the use of Traditional Knowledge (TK) Labels, developed to: "support Native, First Nations, Aboriginal, and Indigenous communities in the management of their intellectual property and cultural heritage specifically within the digital environment", and BioCultural (BC) Labels, which extends the TK Label initiative to genetic resources. 
-
-4.  \
+3.  Projects are encouraged to consider the use of Traditional Knowledge (TK) and Biocultural  (BC) Labels, developed to: "support Native, First Nations, Aboriginal, and Indigenous communities in the management of their intellectual property and cultural heritage specifically within the digital environment", and Bio~~C~~cultural (BC) Labels, which extends the TK Label initiative to genetic resources. 
 
 # Article 5 -- Commercial Projects
 
@@ -166,13 +162,9 @@ The current document defines the terms under which Tetiaroa Society grants parti
 
 2.  This dispute resolution mechanism does not cover breaches of applicable laws or regulations, which shall be dealt with by the competent authorities.
 
-3.  \
-
 # Article 7 -- Financial Aspects
 
 1.  Nothing in this document commits TS or any other parties financially.
-
-2.  \
 
 # Article 8 -- Compliance Monitoring 
 
@@ -180,7 +172,7 @@ The current document defines the terms under which Tetiaroa Society grants parti
 
 \
 
-4.  
+3.  
 
 # Exhibit -- IDEA Code of Conduct
 
