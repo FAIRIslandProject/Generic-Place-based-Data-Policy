@@ -1,7 +1,7 @@
 ---
 title: "Tetiaroa IDEA Data Policy"
 author: "Tetiaroa Society"
-date: '2020-01-03'
+date: '2020-04-23'
 output: html_document
 ---
 
@@ -13,19 +13,19 @@ Tetiaroa Society, French Polynesia
 
 # Preamble
 
-Frangipani Unlimited SA, the owner of Tetiaroa, a private island in French Polynesia, has formally entrusted **Tetiaroa Society (TS)** as the atoll's environmental steward with authority to develop and implement the **Tetiaroa Conservation & Sustainable Use Plan (CASUP)**. Tetiaroa Society manages access to the atoll for research, education, and conservation, or any other purposes not directly linked to The Brando Resort (which is owned and operated by leaseholders, Tahiti Beachcomber SA, on two of the atoll's 12 islets). All projects are authorized by Tetiaroa Society after review of its Scientific Advisory Board (SAB), Cultural Advisory Board (CAB), and/or CASUP Committee, as appropriate. The handling of data and other outputs, including material samples and intellectual property, is a key consideration, and the current document sets out TS policy in this regard.
+Frangipani Unlimited SA, the owner of Tetiaroa, a private island in French Polynesia, has formally entrusted **Tetiaroa Society (TS)** as the atoll's environmental steward with authority to develop and implement the **Tetiaroa Conservation & Sustainable Use Plan (CASUP)**. Tetiaroa Society manages access to the atoll for research, education, and conservation, or any other purposes not directly linked to The Brando Resort ~~(which is owned and operated by leaseholders, Tahiti Beachcomber SA, on two of the atoll's 12 islets)~~ (operated by Tahiti Beachcomber SA on two of the atoll's 12 islets). All projects are authorized by Tetiaroa Society after review of its Scientific Advisory Board (SAB), Cultural Advisory Board (CAB), and/or CASUP Committee, as appropriate. The handling of data and other outputs, including material samples and intellectual property, is a key consideration, and the current document sets out TS policy in this regard.
 
 \
 
 ## Tetiaroa IDEA
 
-Tetiaroa Society is part of the **Island Digital Ecosystem Avatars (IDEA) Consortium**, an international scientific collaboration that is building use-oriented 4-D digital simulations (avatars) of entire social-ecological systems. Anavatar in this context is the digital representation of all the data and knowledge about a place, and as such, the **Tetiaroa IDEA** serves as a decision-support tool for Tetiaroa Society (scenario-based planning for the Tetiaroa CASUP). 
+Tetiaroa Society is part of the **Island Digital Ecosystem Avatars (IDEA) Consortium**, an international scientific collaboration that is building use-oriented 4-D digital simulations (avatars) of entire social-ecological systems. Anavatar in this context is the digital representation (a "digital twin") of all the data and knowledge about a place. The avatar enables actions (e.g., for conservation management) to be assessed in silico prior to deploying them in the real world. ~~, and as such, t~~The **Tetiaroa IDEA** thus serves as a decision-support tool for Tetiaroa Society ~~(~~enabling scenario-based planning for the Tetiaroa CASUP~~)~~. 
 
 \
 
 ### FAIR Island
 
-Data and sample curation underpin scientific reproducibility, synthesis, and reuse. Application of 'FAIR' data principles helps maintain the linkages among diverse data types that are essential for downstream integration, analysis, and modeling (e.g., in the Tetiaroa IDEA). Embedded in a broad international research network, Tetiaroa provides a unique opportunity to demonstrate the benefits of global data standards and best-in-class tools when they are applied universally across domains. 
+Data and sample curation underpin scientific reproducibility, synthesis, and reuse. Application of 'FAIR' data principles helps maintain the linkages among diverse data types that are essential for downstream integration, analysis, and modeling (e.g., in the Tetiaroa IDEA). Embedded in a broad international research network, Tetiaroa provides a unique opportunity to demonstrate the benefits of global data standards and best-in-class tools when they are applied universally across domains. The FAIR Island Project (www.fairisland.org) develops the optimal data policies and technical infrastructure necessary to create an environment where all data and knowledge collected on Tetiaroa is curated and made openly available as quickly as possible. Longer term, FAIR Island seeks to extend the policies and infrastructure to other sites in the IDEA Consortium network and beyond.
 
 \
 
@@ -33,15 +33,17 @@ In recognition of this opportunity, all participants in scientific projects on T
 
 \
 
--   participate in the Tetiaroa IDEA and join the IDEA Consortium
+-   participate in the **Tetiaroa IDEA** ~~and join the IDEA Consortium~~
 
--   deposit a copy of their data in the **Tetiaroa** **Data Trust** (e.g., using Dryad ) 
+-   submit data management plans/reports using **FAIR Island** infrastructure
 
--   manage biosamples in the **Tetiaroa Biocode Observatory** (e.g., using GEOME)
+-   deposit ~~a copy of their~~all metadata (and where possible copies of all data) in the **Tetiaroa** **Data Trust** ~~(e.g., using Dryad )~~ 
 
--   facilitate provenance, attribution, and compliance (e.g., using EvolutionXD)
+-   ~~manage~~register biosamples in the **Tetiaroa Biocode Observatory** ~~(e.g.,~~ using GEOME~~)~~
 
--   abide by the principles of the IDEA Consortium (see Exhibit 1)
+-   facilitate open science ~~provenance, attribution, and compliance (e.g., using EvolutionXD)~~and
+
+-    abide by the principles of the **IDEA Consortium** (see Exhibit 1)
 
 # Article 1 -- Convention
 
@@ -59,7 +61,7 @@ All scientific projects on Tetiaroa agree to:
 
         -   **Those likely to be co-authors on publications or other products.**
 
-    -   **Include a data management plan (DMP) generally described in the marker paper and then subsequently detail/updates and published (DOI) also**
+    -   **Include a data management plan (DMP) ~~generally described in the marker paper and then subsequently detail/updates and published (DOI) also~~ which is also published (with DOI)**
 
         -   Using the Data Management Plan Tool or equivalent to describe the following:
 
@@ -82,7 +84,12 @@ All scientific projects on Tetiaroa agree to:
 
     -   **Evaluation of the application will take place with an eye towards use of appropriate metadata standards, identifiers used for samples, etc.  Additional information is described below.**
 
-        -   **Each project application is reviewed (by SAB) and this includes DMP Review (by appropriate experts related to the specific data types)?**
+        -   ~~**Each project application is reviewed (by SAB) and this includes**~~ **Each project application is reviewed by SAB**
+
+        -   **Each project's DMP is reviewed by TS Science Director (with support of FAIR Island research data management advisor) -- researchers may be required to modify DMP  ~~Review (by appropriate experts related to the specific data types)?~~**
+
+        -   **\
+            **
 
 \
 
@@ -92,15 +99,21 @@ All scientific projects on Tetiaroa agree to:
 
         -   **A progress report updating the initial marker paper, with copies of raw and processed data and any derived data products, including metadata and the location of any other outputs.**
 
+        -   **Compliance check may be carried out (leveraging FAIR Island infrastructure)**
+
 -   **After the project**
 
-    -   **Provide copies of all data (including protocols and software) underpinning scientific papers as well as updates, corrections and modifications to project data**
+    -   **Provide copies of all data ~~(including protocols and software)~~ (including protocols and software) underpinning scientific papers as well as updates, corrections and modifications to project data**
 
         -   **Copies of data are provided where permissible under applicable government regulations**
 
+    -   **Compliance checks may be carried out**
+
+        -   leveraging FAIR Island infrastructure, which aims to make automated audits possible
+
 # Article 2 -- Terms of Use
 
-Data not subject to special treatment for privacy, ethical or legal reasons (see Article 5) remain the property of the provider (Project) and are contributed to Tetiaroa Society (Tetiaroa Data Trust) under a **Creative Commons Attribution-Non-Commercial** license:
+Data not subject to special treatment for privacy, ethical or legal reasons (see Article 5) remain the property of the provider (Project) and are contributed to Tetiaroa Society (Tetiaroa Data Trust) under a **Creative Commons Attribution-~~Non-Commercial~~Noncommercial** license:
 
 -   Attribution --- You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
