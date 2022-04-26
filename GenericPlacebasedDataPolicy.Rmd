@@ -11,7 +11,13 @@ This policy was initially developed using the Tetiaroa Society Data Policy as a 
 
 ### FAIR Island Project 
 
-The stewardship of research data, material samples, and software underpins scientific reproducibility, synthesis, and reuse. Embedded in a multidisciplinary international research network, [Place] is the key use case for the **FAIR Island Project** ([www.fairisland.org](http://www.fairisland.org)), which aims to demonstrate the benefits of global best-practice drawing on the FAIR data principles and the CARE principles for Indigenous data governance, as well as guidance towards FAIR principles for research software. The FAIR Island Project and [Host Organization][Place] Society are developing the [Place] Data trust  as a core component of the [Place] IDEA. \
+The stewardship of research data, material samples, and software underpins scientific reproducibility, synthesis, and reuse. Embedded in a multidisciplinary international research network, [Place] is the key use case for the **FAIR Island Project** ([www.fairisland.org](http://www.fairisland.org)), which aims to demonstrate the benefits of global best-practice drawing on the FAIR data principles[^1] and the CARE principles for Indigenous data governance[^2], as well as guidance towards FAIR principles for research software[^3]. The FAIR Island Project and [Host Organization][Place] Society are developing the [Place] Data trust  as a core component of the [Place] IDEA. \
+
+[^1]: Making data Findable, Accessible, Interoperable, and Reusable, particularly for machines <https://doi.org/10.1038/sdata.2016.18> 
+
+[^2]: Collective benefit, Authority to control, Responsibility, and Ethics - CARE principles for Indigenous data governance. GIDA <https://www.Gida-Global.Org/care>
+
+[^3]: Lamprecht, Anna-Lena et al. (2020) 'Towards FAIR Principles for Research Software'. DOI: 10.3233/DS-190026
 
 [Host Organization] - Organization that controls access to the [Place], described in Preamble. Sponsors organisations that provide in-kind support, through donation, provision of people or a facility or instrumentation necessary for the development of the resource, etc. (DataCite Sponsor definition); 
 
@@ -35,19 +41,19 @@ This is a living document. Ideas or feedback can be contributed through this for
 
 \
 
-# 
-
 ## Preamble
 
-The owners of [Place] have entrusted **[Host Organization]** (hereinafter "[Host Organization]")as the [Place]'s's environmental steward with authority to develop and implement the **[Place] Conservation & Sustainable Use Plan** (hereinafter the "CASUP"), and to manage access to the [Place] for research, education, or conservation purposes. All projects must be authorized by [Host Organization], which may seek advice from its [governing bodies like Scientific Advisory Board (SAB), Cultural Advisory Board (CAB), and/or CASUP Committee, as appropriate]. 
+The owners of [Place] have entrusted **[Host Organization]** (hereinafter "[Host Organization]")as the [Place]'s's environmental steward with authority to develop and implement the **[Place] Conservation & Sustainable Use Plan** (hereinafter the "CASUP")[^4], and to manage access to the [Place] for research, education, or conservation purposes. All projects must be authorized by [Host Organization], which may seek advice from its [governing bodies like Scientific Advisory Board (SAB), Cultural Advisory Board (CAB), and/or CASUP Committee, as appropriate]. 
+
+[^4]:  Sample CASUP  <https://www.tetiaroasociety.org/sites/default/files/research-docs/Tetiaroa-CASUP.pdf>
 
 The handling of research data and other research outputs derived from [Place], including material samples and intellectual property, is a key consideration for [Host Organization]. The current document sets out its policy in this regard. As the environmental steward of [Place], [Host Organization] has an interest in the stewardship of data and material samples derived from the [Place] under its auspices. In addition to its role as environmental steward of 'physical' [Place], [Host Organization] is ready to act as the steward of the [Place]'s "digital twin" or "avatar", and to that end has established the **[Place] Data trust**  in the context of a collaborative program:
 
-\
-
 ### [Place] IDEA
 
-[Host Organization] is a collaborating node of the **Island Digital Ecosystem Avatars (IDEA) Consortium** that aims to build use-oriented 4-D simulations of entire social-ecological systems. Island avatars leverage "digital twin" technology, and draw on all the data and knowledge about a place, to simulate future states of the social-ecological system under alternative scenarios of human activity and/or environmental change. **[Place] IDEA** enables potential actions (e.g., conservation management) to be assessed in silico prior to deploying them. It serves as a decision-support tool for the Tetiaroa CASUP, facilitating scenario-based planning. 
+[Host Organization] is a collaborating node of the **Island Digital Ecosystem Avatars (IDEA) Consortium** that aims to build use-oriented 4-D simulations of entire social-ecological systems[^5]. Island avatars leverage "digital twin" technology, and draw on all the data and knowledge about a place, to simulate future states of the social-ecological system under alternative scenarios of human activity and/or environmental change. **[Place] IDEA** enables potential actions (e.g., conservation management) to be assessed in silico prior to deploying them. It serves as a decision-support tool for the Tetiaroa CASUP, facilitating scenario-based planning. 
+
+[^5]: Simulating social-ecological systems: the Island Digital Ecosystem Avatars (IDEA) consortium <https://doi.org/10.1186/s13742-016-0118-5>
 
 \
 
@@ -59,23 +65,33 @@ The current document (hereinafter "the Policy") represents guidelines that defin
 
 1.  In return for the permission and support provided by **[Host Organization]** to access [Place] for research purposes, Participants in scientific Projects (hereinafter "Projects") agree to contribute to the conservation and sustainable use of the [Place] by participating in the **[Place] IDEA**, contributing to the **[Place] Data trust** , and abiding by the **IDEA Consortium Code of Conduct** (see [Exhibit -- IDEA Code of Conduct]).
 
-2.  Participants who lead Projects (hereinafter "Principal Investigators" or "PIs") agree to submit a Project **Data Management Plan** (hereinafter the "DMP"), using the DMP Tool or equivalent, with their initial Project application to [Host Organization]. Modifications of the DMP might be required prior to [Host Organization] granting approval to access the [Place]. [Host Organization] will provide a DMP template that will:
+2.  Participants who lead Projects (hereinafter "Principal Investigators" or "PIs") agree to submit a Project **Data Management Plan** (hereinafter the "DMP"), using the DMP Tool[^6] or equivalent, with their initial Project application to [Host Organization]. Modifications of the DMP might be required prior to [Host Organization] granting approval to access the [Place]. [Host Organization] will provide a DMP template that will:
 
-    a.  Provide ORCID IDs for all Participants in the Project
+    a.  Provide ORCID IDs[^7] for all Participants in the Project
 
-    b.  Describe intended outputs (which might include datasets; original software; material samples) 
+    b.  Describe intended outputs[^8] (which might include datasets; original software; material samples) 
 
     c.  List any intended intellectual property (e.g., patents, copyright, design rights and confidential know-how)
 
     d.  Describe potential ethical, legal, or social consequences (including potential commercial uses) arising from the collection, distribution, use or reuse of material samples or data, and describe how these issues will be addressed and by whom.
 
-    e.  Commit to using the Traditional Knowledge/Biocultural Notices where appropriate to facilitate FAIR with CARE future data
+    e.  Commit to using the Traditional Knowledge/Biocultural Notices[^9] where appropriate to facilitate FAIR with CARE future data
 
-3.  Participants agree that [Host Organization] may publish a **Marker Paper** as an Open Access document (e.g., in Zenodo) authored by the Principal Investigators and drawing on their Project Application and DMP. [Host Organization] may also make available a **Data Dashboard**as a public portal to the Project's metadata in the [Place] Data trust .
+3.  Participants agree that [Host Organization] may publish a **Marker Paper** as an Open Access document (e.g., in Zenodo[^10]) authored by the Principal Investigators and drawing on their Project Application and DMP. [Host Organization] may also make available a **Data Dashboard** as a public portal to the Project's metadata in the [Place] Data trust .
 
 4.  Participants agree to make all reasonable efforts to utilize and maintain identifiers and linkages generated during the Project, including the DOIs for Marker Papers and DMPs, and to connect them to future derived outputs, enabling dynamic updates to the [Place] Data trust .
 
 5.  If at some point during a Project, circumstances change and Participants can no longer contribute data under the terms described in its DMP and compliant with the terms described in this Policy (e.g., if commercial opportunities arise) the Principal Investigator shall request to make an agreement with [Host Organization], and any other relevant parties, to cover the Project going forward from that point.
+
+[^6]: <https://dmptool.org/>
+
+[^7]: <https://orcid.org/>
+
+[^8]: <https://wellcome.ac.uk/funding/managing-CASUP/developing-outputs-management-plan>
+
+[^9]: <https://www.enrich-hub.org/>
+
+[^10]: <https://zenodo.org/>
 
 ## Article 2 -- [Place] Data Trust 
 
@@ -83,7 +99,7 @@ The current document (hereinafter "the Policy") represents guidelines that defin
 
 2.  Stewardship: [Host Organization] agrees to provide stewardship of Project metadata and data in the [Place] Data Trust to the extent its resources allow, following the terms outlined in this Policy, and as stated in the Project's DMP or any agreed amendments thereof.
 
-3.  The Project agrees that [Host Organization] may maintain copies of Project metadata, data, and software in the [Place] Data trust that are contributed by the Project on a non-exclusive basis and with "no rights reserved" (under Creative Commons CC0). If justified in the original DMP or its subsequent amendments, more restrictive licenses may be applied (e.g., due to ethical, legal, social, or economic aspects - see Article 4) 
+3.  The Project agrees that [Host Organization] may maintain copies of Project metadata, data, and software in the [Place] Data trust[^11] that are contributed by the Project on a non-exclusive basis and with "no rights reserved" (under Creative Commons CC0). If justified in the original DMP or its subsequent amendments, more restrictive licenses may be applied (e.g., due to ethical, legal, social, or economic aspects - see Article 4) 
 
 4.  [Host Organization] is under no legal obligation to maintain Project metadata, data, and software in the [Place] Data trust  and the Project is responsible for and free to archive its metadata, data, or other outputs elsewhere as appropriate.
 
@@ -95,6 +111,8 @@ The current document (hereinafter "the Policy") represents guidelines that defin
 
 8.  Beneficiaries of the [Place] Data trust  include all stakeholders in [Place] including those who provide data, those who are provided with prepublication access to the data (such as the IDEA Consortium), and those who benefit from what is created from the data (most importantly the [Place] of Tetiaroa and its stewardship through the CASUP).  
 
+[^11]: <https://theodi.org/article/what-is-a-data-trust/>
+
 ## Article 3 -- Material Samples 
 
 1.  Each project's DMP shall include a description of the physical collection and removal (extraction) of material samples from [Place] - whether archeological, geological/chemical, biological, or social (built environment). Projects shall describe in their DMP how they plan to register these sampling events, apply unique identifiers, implement relevant metadata standards, and track derived material (sub)samples, (meta)data, and other derived outputs. 
@@ -103,11 +121,13 @@ The current document (hereinafter "the Policy") represents guidelines that defin
 
     a.  to comprehensively inventory the biodiversity of [Place], including all species of fauna and flora -- plants, animals, algae, fungi, and microbial groups;
 
-    b.  to generate time-series biodiversity observations at the bio-molecular level, including nucleotide sequencing and other "multi-omic" approaches. 
+    b.  to generate time-series biodiversity observations at the bio-molecular level, including nucleotide sequencing and other "multi-omic" approaches[^12]. 
 
     c.  to test new technological and scientific approaches for the analysis of biodiversity patterns and ecological processes in general; and to make material samples and information available to the research community. ]
 
 3.  In accordance with the Convention on Biological Diversity (Nagoya Protocol) and associated regulations of the [Country]  government, all biosamples collected on [Place] contribute to the option[[Place] Biocode & Genomic Observatory] and shall comply with the [Template ABS Agreement see sample: "[Tetiaroa Access & Benefit Sharing (ABS) Agreement](https://drive.google.com/open?id=1W0SK1YihP2eHkt7WhOwJBp5mhy7o1HBx)" . ]
+
+[^12]: Davies et al. Founding Charter of the Genomic Observatories Network. GigaScience 2014, <http://www.gigasciencejournal.com/content/3/1/2>
 
 ## Article 4 -- Ethical, Legal, and Social Aspects 
 
@@ -115,7 +135,11 @@ The current document (hereinafter "the Policy") represents guidelines that defin
 
 2.  Requests to deviate from the default terms described in this document should be submitted to [Host Organization] with justification in the Project application and DMP, or subsequently if new issues arise. In addition to potential review by [Host Organization] Advisory Boards, other Institutional Review Boards or government agencies might also be involved as appropriate. 
 
-3.  Projects are encouraged to consider the use of Traditional Knowledge (TK) and Biocultural  (BC) Labels, developed to: "support Native, First Nations, Aboriginal, and Indigenous communities in the management of their intellectual property and cultural heritage specifically within the digital environment", and Biocultural (BC) Labels, which extends the TK Label initiative to genetic resources. 
+3.  Projects are encouraged to consider the use of Traditional Knowledge (TK) and Biocultural (BC) Labels, developed to: "support Native, First Nations, Aboriginal, and Indigenous communities in the management of their intellectual property and cultural heritage specifically within the digital environment"[^13], and Biocultural (BC) Labels, which extends the TK Label initiative to genetic resources[^14]. 
+
+[^13]:  <https://localcontexts.org/>
+
+[^14]:  <https://www.enrich-hub.org/>
 
 ## Article 5 -- Commercial Projects
 
@@ -139,14 +163,18 @@ The current document (hereinafter "the Policy") represents guidelines that defin
 
 # Exhibit -- IDEA Code of Conduct
 
-The following is adapted from the Toronto Statement on Prepublication International Data Sharing. 
+The following is adapted from the Toronto Statement on Prepublication International Data Sharing[^15]. 
+
+[^15]: [**Prepublication data sharing**](https://www.nature.com/nature/journal/v461/n7261/full/461168a.html) Toronto International Data Release Workshop Authors Nature **461**, 168-170 (10 September 2009) doi:10.1038/461168a
 
 ------------------------------------------------------------------------
 
 \
 Participants in the IDEA Consortium agree to abide by the following principles:
 
-**Respect the Privacy, Ethical, and Legal rights** of anyone, including Indigenous peoples, who might be adversely affected by the collection, distribution, use or reuse of data, samples or derived information and knowledge. Apply consent, confidentiality, anonymization and other ethical considerations, where appropriate.\
+**Respect the Privacy, Ethical, and Legal rights** of anyone, including Indigenous peoples[^16], who might be adversely affected by the collection, distribution, use or reuse of data, samples or derived information and knowledge. Apply consent, confidentiality, anonymization and other ethical considerations, where appropriate.\
+
+[^16]: Collective benefit, Authority to control, Responsibility, and Ethics - CARE principles for Indigenous data governance. GIDA h[ttps://www.Gida-Global.Org/care](https://www.gida-global.org/care)
 
 **Rapid prepublication data release to** the IDEA Consortium (e.g., through one of its regional chapters such as the [Place] IDEA), which is a program with the following characteristics:
 
