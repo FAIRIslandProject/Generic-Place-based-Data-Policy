@@ -19,7 +19,7 @@ The stewardship of research data, material samples, and software underpins scien
 
 [^3]: Lamprecht, Anna-Lena et al. (2020) 'Towards FAIR Principles for Research Software'. DOI: 10.3233/DS-190026
 
-[Host Organization] - Organization that controls access to the [Place], described in Preamble. Sponsors organisations that provide in-kind support, through donation, provision of people or a facility or instrumentation necessary for the development of the resource, etc. (DataCite Sponsor definition); 
+[Host Organization] - Organization that controls access to the [Place], described in Preamble. Sponsors organizations that provide in-kind support, through donation, provision of people or a facility or instrumentation necessary for the development of the resource, etc. (DataCite Sponsor definition); 
 
 ### Cite this policy as: 
 
