@@ -23,7 +23,7 @@ The stewardship of research data, material samples, and software underpins scien
 
 ### Cite this policy as: 
 
-Davies, Neil, Chodacki, John, Praetzellis, Maria, Nancarrow, Catherine, & Robinson, Erin. (2021). Generic Place-Based Research Data Policy (V0.0.0). Zenodo. <https://doi.org/10.5281/zenodo.5735488> 
+Davies, Neil, Chodacki, John, Praetzellis, Maria, Nancarrow, Catherine, & Robinson, Erin. (2021). Generic Place-Based Research Data Policy (V0.0.0). Zenodo. <https://doi.org/10.5281/zenodo.5735488>  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5735488.svg)](https://doi.org/10.5281/zenodo.5735488)
 
 ------------------------------------------------------------------------
 
@@ -93,7 +93,7 @@ The current document (hereinafter "the Policy") represents guidelines that defin
 
 [^10]: <https://zenodo.org/>
 
-## Article 2 -- [Place] Data Trust 
+## Article 2 -- [Place] Data Trust
 
 1.  Purpose: The [Place] Data Trust is maintained by [Host Organization] to help ensure that research data, material samples, and software relevant to [Place] are as Findable, Accessible, Interoperable, and Reusable (FAIR) as possible, in accordance with global best practice with respect to ethical, legal, social, and scientific considerations. The [Place] Data trust  consists primarily of metadata and transaction records with links to metadata, data, or software that are maintained in suitable third-party repositories.
 
@@ -117,17 +117,9 @@ The current document (hereinafter "the Policy") represents guidelines that defin
 
 1.  Each project's DMP shall include a description of the physical collection and removal (extraction) of material samples from [Place] - whether archeological, geological/chemical, biological, or social (built environment). Projects shall describe in their DMP how they plan to register these sampling events, apply unique identifiers, implement relevant metadata standards, and track derived material (sub)samples, (meta)data, and other derived outputs. 
 
-2.  [OPTIONAL, if you have specific policies with respect to geo, bio, or anthropological samples, insert here for example: In the case of biological samples, the [Host Organization] has established the **[Place] Biocode & Genomic Observatory**, a scientific research program of the [Institution/s] with the following objectives: 
-
-    a.  to comprehensively inventory the biodiversity of [Place], including all species of fauna and flora -- plants, animals, algae, fungi, and microbial groups;
-
-    b.  to generate time-series biodiversity observations at the bio-molecular level, including nucleotide sequencing and other "multi-omic" approaches[^12]. 
-
-    c.  to test new technological and scientific approaches for the analysis of biodiversity patterns and ecological processes in general; and to make material samples and information available to the research community. ]
+2.  [OPTIONAL, if you have specific policies with respect to geo, bio, or anthropological samples, insert here for example: In the case of biological samples, the [Host Organization] has established the **[Place] Biocode & Genomic Observatory**, a scientific research program of the [Institution/s] with the following objectives: ]
 
 3.  In accordance with the Convention on Biological Diversity (Nagoya Protocol) and associated regulations of the [Country]  government, all biosamples collected on [Place] contribute to the option[[Place] Biocode & Genomic Observatory] and shall comply with the [Template ABS Agreement see sample: "[Tetiaroa Access & Benefit Sharing (ABS) Agreement](https://drive.google.com/open?id=1W0SK1YihP2eHkt7WhOwJBp5mhy7o1HBx)" . ]
-
-[^12]: Davies et al. Founding Charter of the Genomic Observatories Network. GigaScience 2014, <http://www.gigasciencejournal.com/content/3/1/2>
 
 ## Article 4 -- Ethical, Legal, and Social Aspects 
 
@@ -135,11 +127,11 @@ The current document (hereinafter "the Policy") represents guidelines that defin
 
 2.  Requests to deviate from the default terms described in this document should be submitted to [Host Organization] with justification in the Project application and DMP, or subsequently if new issues arise. In addition to potential review by [Host Organization] Advisory Boards, other Institutional Review Boards or government agencies might also be involved as appropriate. 
 
-3.  Projects are encouraged to consider the use of Traditional Knowledge (TK) and Biocultural (BC) Labels, developed to: "support Native, First Nations, Aboriginal, and Indigenous communities in the management of their intellectual property and cultural heritage specifically within the digital environment"[^13], and Biocultural (BC) Labels, which extends the TK Label initiative to genetic resources[^14]. 
+3.  Projects are encouraged to consider the use of Traditional Knowledge (TK) and Biocultural (BC) Labels, developed to: "support Native, First Nations, Aboriginal, and Indigenous communities in the management of their intellectual property and cultural heritage specifically within the digital environment"[^12], and Biocultural (BC) Labels, which extends the TK Label initiative to genetic resources[^13]. 
 
-[^13]:  <https://localcontexts.org/>
+[^12]:  <https://localcontexts.org/>
 
-[^14]:  <https://www.enrich-hub.org/>
+[^13]:  <https://www.enrich-hub.org/>
 
 ## Article 5 -- Commercial Projects
 
@@ -163,18 +155,18 @@ The current document (hereinafter "the Policy") represents guidelines that defin
 
 # Exhibit -- IDEA Code of Conduct
 
-The following is adapted from the Toronto Statement on Prepublication International Data Sharing[^15]. 
+The following is adapted from the Toronto Statement on Prepublication International Data Sharing[^14]. 
 
-[^15]: [**Prepublication data sharing**](https://www.nature.com/nature/journal/v461/n7261/full/461168a.html) Toronto International Data Release Workshop Authors Nature **461**, 168-170 (10 September 2009) doi:10.1038/461168a
+[^14]: [**Prepublication data sharing**](https://www.nature.com/nature/journal/v461/n7261/full/461168a.html) Toronto International Data Release Workshop Authors Nature **461**, 168-170 (10 September 2009) <doi:10.1038/461168a>
 
 ------------------------------------------------------------------------
 
 \
 Participants in the IDEA Consortium agree to abide by the following principles:
 
-**Respect the Privacy, Ethical, and Legal rights** of anyone, including Indigenous peoples[^16], who might be adversely affected by the collection, distribution, use or reuse of data, samples or derived information and knowledge. Apply consent, confidentiality, anonymization and other ethical considerations, where appropriate.\
+**Respect the Privacy, Ethical, and Legal rights** of anyone, including Indigenous peoples[^15], who might be adversely affected by the collection, distribution, use or reuse of data, samples or derived information and knowledge. Apply consent, confidentiality, anonymization and other ethical considerations, where appropriate.\
 
-[^16]: Collective benefit, Authority to control, Responsibility, and Ethics - CARE principles for Indigenous data governance. GIDA h[ttps://www.Gida-Global.Org/care](https://www.gida-global.org/care)
+[^15]: Collective benefit, Authority to control, Responsibility, and Ethics - CARE principles for Indigenous data governance. GIDA h[ttps://www.Gida-Global.Org/care](https://www.gida-global.org/care)
 
 **Rapid prepublication data release to** the IDEA Consortium (e.g., through one of its regional chapters such as the [Place] IDEA), which is a program with the following characteristics:
 
@@ -226,4 +218,4 @@ Participants in the IDEA Consortium agree to abide by the following principles:
 
 -   Ensuring that use of data does not harm participants and is in conformity with ethical, legal, and social aspects and approvals
 
-#  Footnotes
+# Footnotes
