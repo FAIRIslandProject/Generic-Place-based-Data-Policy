@@ -1,2 +1,2 @@
-# Tetiaroa-Data-Policy
-The policy was started in Dec 2019
+# Generic-Place-based-Data-Policy
+The policy was created on March 3, 2021 and is based on the Tetiaroa Data Policy
