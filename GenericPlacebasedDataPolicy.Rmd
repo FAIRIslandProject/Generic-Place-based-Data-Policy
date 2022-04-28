@@ -29,11 +29,11 @@ Davies, Neil, Chodacki, John, Praetzellis, Maria, Nancarrow, Catherine, & Robins
 
 ***Tl;dr v1***
 
-*In return for the support and access to [Place] provided by [Host Organization], participants in research projects join the [Place] IDEA - a collaborative project to build a digital simulation (avatar) of the [Place]. Participants in the [Place] IDEA agree to make their metadata and [prepublication] data available to each other through a "[Place] Data trust " that facilitates data re-use according to mutually agreed terms and a code of conduct. The [Place] Data trust follows FAIR+CARE data principles and is distributed across repositories that meet global standards in research data stewardship. This policy does not impose legally-binding conditions nor replace or impinge on legal obligations that might apply elsewhere.*
+*In return for the support and access to [Place] provided by [Host Organization], Participants  in Research Projects join the [Place] IDEA - a collaborative project to build a digital simulation (avatar) of the [Place]. Participants in the [Place] IDEA agree to make their metadata and [prepublication] data available to each other through a "[Place] Data trust " that facilitates data re-use according to mutually agreed terms and a code of conduct. The [Place] Data trust follows FAIR+CARE data principles and is distributed across repositories that meet global standards in research data stewardship. This policy does not impose legally-binding conditions nor replace or impinge on legal obligations that might apply elsewhere.*
 
 ***Tl;dr v2***
 
-*In return for the support and access to [Place] provided by [Host Organization], participants in research projects agree to make their metadata and prepublication data available to each other through a "[Place] Data trust " (xDT) that facilitates data re-use according to mutually agreed terms and a code of conduct. The xDT is maintained by [Host Organization] to support decision-making for wise and equitable stewardship of the [Place]. The TDT follows FAIR+CARE data principles and is distributed across repositories that meet global standards in research data stewardship. This policy does not impose legally-binding conditions nor replace or impinge on legal obligations that might apply elsewhere.*
+*In return for the support and access to [Place] provided by [Host Organization], Participants  in Research Projects agree to make their metadata and prepublication data available to each other through a "[Place] Data trust " (xDT) that facilitates data re-use according to mutually agreed terms and a code of conduct. The xDT is maintained by [Host Organization] to support decision-making for wise and equitable stewardship of the [Place]. The TDT follows FAIR+CARE data principles and is distributed across repositories that meet global standards in research data stewardship. This policy does not impose legally-binding conditions nor replace or impinge on legal obligations that might apply elsewhere.*
 
 This is a living document. Ideas or feedback can be contributed through this form:<https://forms.gle/7aGfkZndD5bmkGrw7>
 
@@ -59,11 +59,11 @@ The handling of research data and other research outputs derived from [Place], i
 
 ## Purpose of this Document
 
-The current document (hereinafter "the Policy") represents guidelines that define the general terms under which [Host Organization] grants participants in scientific research projects (hereinafter "Participants") access to [Place]. The document is intended to be 'socially binding' with respect to the principles and common understanding described herein. The Policy does not preclude or replace any legal obligations or responsibilities that Participants or the institutions with which they are affiliated might incur, for example, under the regulations and laws of French Polynesia. 
+The current document (hereinafter "the Policy") represents guidelines that define the general terms under which [Host Organization] grants Participants  in scientific Research Projects (hereinafter "Participants") access to [Place]. The document is intended to be 'socially binding' with respect to the principles and common understanding described herein. The Policy does not preclude or replace any legal obligations or responsibilities that Participants or the institutions with which they are affiliated might incur, for example, under the regulations and laws of French Polynesia. 
 
 ## Article 1 -- Convention
 
-1.  In return for the permission and support provided by **[Host Organization]** to access [Place] for research purposes, Participants in scientific Projects (hereinafter "Projects") agree to contribute to the conservation and sustainable use of the [Place] by participating in the **[Place] IDEA**, contributing to the **[Place] Data trust** , and abiding by the **IDEA Consortium Code of Conduct** (see [Exhibit -- IDEA Code of Conduct]).
+1.  In return for the permission and support provided by **[Host Organization]** to access [Place] for research purposes, Participants in scientific Research Projects (hereinafter "Projects") agree to contribute to the conservation and sustainable use of the [Place] by participating in the **[Place] IDEA**, contributing to the **[Place] Data trust** , and abiding by the **IDEA Consortium Code of Conduct** (see [Exhibit -- IDEA Code of Conduct]).
 
 2.  Participants who lead Projects (hereinafter "Principal Investigators" or "PIs") agree to submit a Project **Data Management Plan** (hereinafter the "DMP"), using the DMP Tool[^6] or equivalent, with their initial Project application to [Host Organization]. Modifications of the DMP might be required prior to [Host Organization] granting approval to access the [Place]. [Host Organization] will provide a DMP template that will:
 
@@ -186,7 +186,7 @@ Participants in the IDEA Consortium agree to abide by the following principles:
 
 -   Fostering investigator-initiated prepublication data release
 
--   Helping to develop appropriate consent, security, access and governance mechanisms that protect research participants while encouraging prepublication data release
+-   Helping to develop appropriate consent, security, access and governance mechanisms that protect research Participants  while encouraging prepublication data release
 
 -   Providing long-term support of databases\
 
@@ -196,7 +196,7 @@ Participants in the IDEA Consortium agree to abide by the following principles:
 
 -   Providing relevant metadata and documentation that will assist other researchers in reproducing and/or independently analyzing the data, while protecting privacy and other ethical, legal, and social aspects concerning individuals and communities
 
--   Ensuring that all participants in their Project are informed that their data will be shared with other scientists in the IDEA Consortium and the associated terms
+-   Ensuring that all Participants  in their Project are informed that their data will be shared with other scientists in the IDEA Consortium and the associated terms
 
 -   Publishing their initial global analyses in a timely fashion
 
@@ -208,7 +208,7 @@ Participants in the IDEA Consortium agree to abide by the following principles:
 
 -   Respecting the scientific etiquette that allows data producers to publish the first global analyses of their data set 
 
--   Reading the citable document(s) associated with the project (e.g., 'marker paper')
+-   Reading the citable document(s) associated with the Project(e.g., 'marker paper')
 
 -   Accurately and completely citing the source of prepublication data, including the version of the data set 
 
@@ -216,6 +216,6 @@ Participants in the IDEA Consortium agree to abide by the following principles:
 
 -   Contacting the data producers to discuss publication plans in the case of overlap between planned analyses
 
--   Ensuring that use of data does not harm participants and is in conformity with ethical, legal, and social aspects and approvals
+-   Ensuring that use of data does not harm Participants  and is in conformity with ethical, legal, and social aspects and approvals
 
 # Footnotes
