@@ -99,7 +99,7 @@ The current document (hereinafter "the Policy") represents guidelines that defin
 
 2.  Stewardship: [Host Organization] agrees to provide stewardship of Project metadata and data in the [Place] Data Trust to the extent its resources allow, following the terms outlined in this Policy, and as stated in the Project's DMP or any agreed amendments thereof.
 
-3.  The Project agrees that [Host Organization] may maintain copies of Project metadata, data, and software in the [Place] Data trust[^11] that are contributed by the Project on a non-exclusive basis and with "no rights reserved" (under Creative Commons CC0). If justified in the original DMP or its subsequent amendments, more restrictive licenses may be applied (e.g., due to ethical, legal, social, or economic aspects - see Article 4) 
+3.  Project Participants agree that [Host Organization] may maintain copies of Project metadata, data, and software in the [Place] Data trust[^11] that are contributed by the Project on a non-exclusive basis and with "no rights reserved" (under Creative Commons CC0). If justified in the original DMP or its subsequent amendments, more restrictive licenses may be applied (e.g., due to ethical, legal, social, or economic aspects - see Article 4) 
 
 4.  [Host Organization] is under no legal obligation to maintain Project metadata, data, and software in the [Place] Data trust and Project participants are responsible for and free to archive its metadata, data, or other outputs elsewhere as appropriate.
 
