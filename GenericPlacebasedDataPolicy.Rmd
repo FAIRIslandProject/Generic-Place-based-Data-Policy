@@ -81,7 +81,7 @@ The current document (hereinafter "the Policy") represents guidelines that defin
 
 4.  Participants agree to make all reasonable efforts to utilize and maintain identifiers and linkages generated during the Project, including the DOIs for Marker Papers and DMPs, and to connect them to future derived outputs, enabling dynamic updates to the [Place] Data trust .
 
-5.  If at some point during a Project, circumstances change and Participants can no longer contribute data under the terms described in its DMP and compliant with the terms described in this Policy (e.g., if commercial opportunities arise) the Principal Investigator shall request to make an agreement with [Host Organization], and any other relevant parties, to cover the Project going forward from that point.
+5.  If at some point during a Project, circumstances change and Participants can no longer contribute data under the terms described in its DMP and compliant with the terms described in this Policy (e.g., if commercial opportunities arise) the Principal Investigator shall request to make an arrangement with the [Host Organization].
 
 [^6]: <https://dmptool.org/>
 
