@@ -1,7 +1,7 @@
 ---
 title: "Generic Place-based IDEA Data Policy"
 author: "FAIR Island Project"
-date: 'Last edited: 2021-11-29 | V0.0.0'
+date: 'Last edited: 2022-06-22 | V0.0.0'
 output: html_document
 ---
 
@@ -71,11 +71,13 @@ The current document (hereinafter "the Policy") represents guidelines that defin
 
     b.  Describe intended outputs[^8] (which might include datasets; original software; material samples) 
 
-    c.  List any intended intellectual property (e.g., patents, copyright, design rights and confidential know-how)
+    c.  List any intended intellectual property (e.g., patents, copyright, etc.)
 
-    d.  Describe potential ethical, legal, or social consequences (including potential commercial uses) arising from the collection, distribution, use or reuse of material samples or data, and describe how these issues will be addressed and by whom.
+    d.  List potential commercial uses of intended outputs
 
-    e.  Commit to using the Traditional Knowledge/Biocultural Notices[^9] where appropriate to facilitate FAIR with CARE future data
+    e.  Describe potential ethical, legal, or social consequences arising from the collection, distribution, use or reuse of material samples or data, and describe how these issues will be addressed and by whom
+
+    f.  Commit to using the Traditional Knowledge/Biocultural Notices[^9] where appropriate to facilitate FAIR with CARE future data
 
 3.  Participants agree that [Host Organization] may publish a **Marker Paper** as an Open Access document (e.g., in Zenodo[^10]) authored by the Principal Investigators and drawing on their Project Application and DMP. [Host Organization] may also make available a **Data Dashboard** as a public portal to the Project's metadata in the [Place] Data trust .
 
