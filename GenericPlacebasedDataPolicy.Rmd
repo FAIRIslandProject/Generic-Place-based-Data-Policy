@@ -65,7 +65,7 @@ The current document (hereinafter "the Policy") represents guidelines that defin
 
 1.  In return for the permission and support provided by **[Host Organization]** to access [Place] for research purposes, Participants in scientific Research Projects (hereinafter "Participants") agree to contribute to the conservation and sustainable use of the [Place] by participating in the **[Place] IDEA**, contributing to the **[Place] Data trust**, and abiding by the **IDEA Consortium Code of Conduct** (see [Exhibit -- IDEA Code of Conduct](#exhibit-idea-code-of-conduct)).
 
-2.  Participants who lead Projects (hereinafter "Principal Investigators" or "PIs") agree to submit a Project **Data Management Plan** (hereinafter the "DMP"), using the DMP Tool[^6] or equivalent, with their initial Project application to [Host Organization]. Modifications of the DMP might be required prior to [Host Organization] granting approval to access the [Place]. [Host Organization] will provide a DMP template that will:
+2.  Participants who lead Projects (hereinafter "Principal Investigators" or "PIs") agree to submit a Project **Data Management Plan** (hereinafter the "DMP"), using the DMP Tool[^6] or equivalent, with their initial Project application to [Host Organization]. Modifications of the DMP might be required prior to [Host Organization] granting approval to access the [Place]. [Host Organization] will provide a DMP template through the DMPTool that will:
 
     a.  Provide ORCID IDs[^7] for all Participants in the Project
 
