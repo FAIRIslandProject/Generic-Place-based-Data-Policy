@@ -135,7 +135,7 @@ The current document (hereinafter "the Policy") represents guidelines that defin
 
 ## Article 5 -- Commercial Projects
 
-1.  Projects with commercial intentrequireauthorization from [Host Organization] (and possibly other parties) under separate project-specific agreements. Commercial use is defined here as:
+1.  Projects with commercial intent require authorization from [Host Organization] (and possibly other parties) under separate project-specific, written agreements. Commercial use is defined here as:
 
     a.  Commercial product development; the sale, lease, or license of the Outputs; using the Outputs to produce or manufacture products for general sale, not including publications and/or copyrightable works; transferring tangible rights by sale or license resulting in payment beyond cost; conducting market research; seeking pre-market approval.
 
