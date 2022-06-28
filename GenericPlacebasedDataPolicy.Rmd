@@ -1,13 +1,13 @@
 ---
 title: "Generic Place-based IDEA Data Policy"
 author: "FAIR Island Project"
-date: 'Last edited: 2022-06-22 | V0.0.0'
+date: 'Last edited: 2022-06-28 | V1.0.0'
 output: html_document
 ---
 
-## ABOUT THIS VERSION V0.0.0 
+## ABOUT THIS VERSION V1.0.0 
 
-This policy was initially developed using the Tetiaroa Society Data Policy as a template branched from the February 24, 2021 version. \
+V1.0.0 is the first official release of the Generic Place-based Data Policy. That includes significant community feedback on the [V0.0.0](https://doi.org/10.5281/zenodo.5781442) from February 2021 through June 2022. \
 
 ### FAIR Island Project 
 
@@ -27,15 +27,11 @@ Davies, Neil, Chodacki, John, Praetzellis, Maria, Nancarrow, Catherine, & Robins
 
 ------------------------------------------------------------------------
 
-***Tl;dr v1***
+***Tl;dr***
 
-*In return for the support and access to [Place] provided by [Host Organization], Participants in Research Projects join the [Place] IDEA - a collaborative project to build a digital simulation (avatar) of the [Place]. Participants in the [Place] IDEA agree to make their metadata and [prepublication] data available to each other through a "[Place] Data trust" that facilitates data re-use according to mutually agreed terms and a code of conduct. The [Place] Data trust follows FAIR+CARE data principles and is distributed across repositories that meet global standards in research data stewardship. This policy does not impose legally-binding conditions nor replace or impinge on legal obligations and/or institutional policies* *that might apply.*
+*In return for the support and access to [Place] (the physical island and data derived from it) provided by [Host Organization], participants in research projects agree to make their metadata and prepublication data available to each other through a \"[Place] Data Trust\" that facilitates data re-use according to mutually agreed terms and a code of conduct. The Trust is maintained by the [Host Organization] to support decision-making for wise and equitable stewardship of the [place]. It follows best-practice in research data stewardship. This policy does not impose legally-binding conditions nor replace or impinge on legal obligations and/or institutional policies that might apply.*
 
-***Tl;dr v2***
-
-*In return for the support and access to [Place] provided by [Host Organization], Participants in Research Projects agree to make their metadata and prepublication data available to each other through a "[Place] Data trust" (xDT) that facilitates data re-use according to mutually agreed terms and a code of conduct. The xDT is maintained by [Host Organization] to support decision-making for wise and equitable stewardship of the [Place]. The TDT follows FAIR+CARE data principles and is distributed across repositories that meet global standards in research data stewardship. This policy does not impose legally-binding conditions nor replace or impinge on legal obligations and/or institutional policies* *that might apply.*
-
-This is a living document. Ideas or feedback can be contributed through this form:<https://forms.gle/7aGfkZndD5bmkGrw7>
+This is a living document. Ideas or feedback can be contributed through this issues in the Github repo: <https://github.com/FAIRIslandProject/Generic-Place-based-Data-Policy/issues>
 
 ------------------------------------------------------------------------
 
