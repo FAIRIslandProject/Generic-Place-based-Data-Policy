@@ -23,7 +23,7 @@ The stewardship of research data, material samples, and software underpins scien
 
 ### Cite this policy as: 
 
-Davies, Neil, Chodacki, John, Praetzellis, Maria, Nancarrow, Catherine, & Robinson, Erin. (2021). Generic Place-Based Research Data Policy (V0.0.0). Zenodo. <https://doi.org/10.5281/zenodo.5735488>  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5735488.svg)](https://doi.org/10.5281/zenodo.5735488)
+Neil Davies, John Chodacki, Catherine Nancarrow, Maria Praetzellis, & Erin Robinson. (2022). FAIRIslandProject/Generic-Place-based-Data-Policy: V1.0.0 (V1.0.0). Zenodo. <https://doi.org/10.5281/zenodo.6773487> ![](images/paste-9A140CE9.png)
 
 ------------------------------------------------------------------------
 
