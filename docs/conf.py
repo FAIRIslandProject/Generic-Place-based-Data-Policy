@@ -21,6 +21,9 @@ project = 'Generic Place Based Data Policy'
 copyright = '2022, FAIR Island Project Team'
 author = 'FAIR Island Project Team'
 
+# The short X.Y version
+version = "1.0.0"
+
 # The full version, including alpha/beta/rc tags
 release = 'V1.0.0'
 
