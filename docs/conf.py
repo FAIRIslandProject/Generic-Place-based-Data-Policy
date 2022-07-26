@@ -33,8 +33,11 @@ release = 'V1.0.0'
 extensions = [
    "sphinx_comments"
 ]
+
+
 comments_config = {
-   "hypothesis": True
+    "hypothesis": True
+    
 }
 
 # Add any paths that contain templates here, relative to this directory.
