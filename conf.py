@@ -31,7 +31,7 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 
-html_logo = "_static/DataCite-Logo_secondary-white.png"
+html_logo = "https://fairisland.org/wp-content/uploads/2020/04/cropped-FAIR-Island@2x.png"
 
 html_theme_options = {
     # Toc options
