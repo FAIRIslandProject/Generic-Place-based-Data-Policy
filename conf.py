@@ -2,11 +2,11 @@
 
 # -- Project information
 
-project = 'DataCite Metadata Schema'
-author = 'DataCite Metadata Working Group'
+project = 'FAIR Island Project'
+author = 'FAIR Island Project Team'
 
-release = '4.5'
-version = '4.5'
+release = 'latest'
+version = '1.0.0'
 
 # -- General configuration
 
