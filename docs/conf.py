@@ -31,7 +31,11 @@ release = 'V1.0.0'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+   "sphinx_comments"
 ]
+comments_config = {
+   "hypothesis": True
+}
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
