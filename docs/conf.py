@@ -53,3 +53,6 @@ html_css_files = [
     'css/custom.css',
 ]
 
+extensions = ["sphinx_comments"]
+comments_config = {"hypothesis": True}
+
