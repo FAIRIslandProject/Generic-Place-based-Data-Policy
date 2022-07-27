@@ -15,7 +15,7 @@ version = '1.0.0'
 
 # -- General configuration
 
-extensions = ["sphinx_comments", "myst_parser"]
+# extensions = ["sphinx_comments", "myst_parser"]
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
@@ -53,9 +53,3 @@ html_css_files = [
     'css/custom.css',
 ]
 
-comments_config = {
-   "utterances": {
-      "repo": "github-org/github-repo",
-      "optional": "config",
-   }
-}
