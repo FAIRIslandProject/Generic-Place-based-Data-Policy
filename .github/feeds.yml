@@ -1,0 +1,20 @@
+name: rss
+
+on:
+  schedule:
+  - cron: '18 07 * * *'
+  workflow_dispatch:
+
+jobs:
+  gke:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: guilhem/rss-issues-action@0.1.0
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        feed: "https://hypothes.is/stream.rss?uri=https://fairislandproject.github.io/Generic-Place-based-Data-Policy/GenericPlacebasedDataPolicy.html"
+        prefix: "[hypothes.is]"
+        dry-run: "false"
+        lastTime: "336h"
+        labels: "comment"
+ 
