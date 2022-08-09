@@ -36,7 +36,7 @@ Neil Davies, John Chodacki, Catherine Nancarrow, Maria Praetzellis, & Erin Robin
 
 *In return for the support and access to [Place] (the physical island and data derived from it) provided by [Host Organization], participants in research projects agree to make their metadata and prepublication data available to each other through a "[Place] Data Trust" that facilitates data re-use according to mutually agreed terms and a code of conduct. The Trust is maintained by the [Host Organization] to support decision-making for wise and equitable stewardship of the [place]. It follows best-practice in research data stewardship. This policy does not impose legally-binding conditions nor replace or impinge on legal obligations and/or institutional policies that might apply.*
 
-This is a living document. Ideas or feedback can be contributed through this issues in the Github repo: <https://github.com/FAIRIslandProject/Generic-Place-based-Data-Policy/issues>
+This is a living document. Ideas or feedback can be contributed through commenting directly using Hypothes.is which will create issues in the Github repo or you can directly create an issue: <https://github.com/FAIRIslandProject/Generic-Place-based-Data-Policy/issues>
 
 ------------------------------------------------------------------------
 
