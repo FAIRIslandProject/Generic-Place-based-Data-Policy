@@ -3,10 +3,10 @@ title: "Generic Place-based IDEA Data Policy"
 author: "FAIR Island Project"
 date: 'Last edited: 2022-06-28 | V1.0.2'
 output: 
-  html_document: default
+  html_document: 
+    includes:
+      before_body: before.html
 ---
-
-    <script src="https://hypothes.is/embed.js" async></script>
 
 ## ABOUT THE MAJOR VERSION V1.0.0 
 
