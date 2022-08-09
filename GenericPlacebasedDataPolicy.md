@@ -1,9 +1,14 @@
+    <script src="https://hypothes.is/embed.js" async></script>
+
 ## ABOUT THE MAJOR VERSION V1.0.0 
 
 V1.0.0 is the first official release of the Generic Place-based Data
 Policy. That includes significant community feedback on the
 [V0.0.0](https://doi.org/10.5281/zenodo.5781442) from February 2021
-through June 2022.  
+through June 2022.
+
+V1.0.2 includes the correct DOI and citation. It also includes
+Hypothes.is for additional annotations.  
 
 ### FAIR Island Project 
 
@@ -29,9 +34,8 @@ instrumentation necessary for the development of the resource, etc.
 
 Neil Davies, John Chodacki, Catherine Nancarrow, Maria Praetzellis, &
 Erin Robinson. (2022).
-FAIRIslandProject/Generic-Place-based-Data-Policy: V1.0.0 (V1.0.0).
-Zenodo. <https://doi.org/10.5281/zenodo.6773487>
-![](images/paste-9A140CE9.png)
+FAIRIslandProject/Generic-Place-based-Data-Policy: V1.0.2
+<https://doi.org/10.5281/zenodo.6977454>
 
 ------------------------------------------------------------------------
 
